@@ -1,3 +1,6 @@
+import System.Environment
+import System.IO
+
 splitInHalf :: [a] -> ([a], [a])
 splitInHalf xs = (take n xs, drop n xs)
   where n = (length xs) `div` 2
@@ -14,3 +17,12 @@ mergeSort xs
   | (length xs) > 1 = merge (mergeSort leftSide) (mergeSort rightSide)
   | otherwise = xs
   where (leftSide, rightSide) = splitInHalf xs
+
+main = do
+  arguments <- getArgs
+  let fileName = head arguments
+  file <- openFile fileName ReadMode
+  fileContents <- hGetContents file
+  let numbers = map read $ words fileContents
+  mergeSort numbers
+  hClose file
