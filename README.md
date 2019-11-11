@@ -28,4 +28,5 @@
 - [Merge and Quick Sort in Haskell](https://smthngsmwhr.wordpress.com/2012/11/09/sorting-algorithms-in-haskell/)
 - https://alvinalexander.com/haskell/how-to-use-command-line-arguments-in-haskell
 - https://www.devdungeon.com/content/command-line-arguments-haskell
+- https://stackoverflow.com/questions/3501338/c-read-file-line-by-line#3501681
 - 
