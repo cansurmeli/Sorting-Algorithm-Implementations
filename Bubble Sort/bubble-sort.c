@@ -3,30 +3,6 @@
 #include <time.h>
 #include <stdlib.h>
 
-int * retrieveNumbersFromFileIntoArray(char fileName[]) {
-	FILE *file = fopen(fileName, "r");
-	char *fileLine = NULL;
-	size_t len = 0;
-	ssize_t read;
-	static int numbers[100000];
-	int numberIndex= 0;
-
-	// check if the file exists
-	if (file == NULL) {
-		printf("Could not open the file!\n");
-		return 0;
-	}
-
-	// retieve the file contents
-	do {
-		read = getline(&fileLine, &len, file);
-		numbers[numberIndex] = atoi(fileLine);
-		numberIndex++;
-	} while(read != -1);
-
-	return numbers;
-}
-
 void swap(int *a, int *b) {
 	int temp = *a;
 	*a = *b;
@@ -45,26 +21,20 @@ void bubbleSort(int array[], int n) {
 	}
 }
 
-void printArray(int array[], int n) {
-	int i;
-
-	for (i=0; i < n; i++) {
-		printf("%d\n", array[i]);
-	}
-}
-
 int main(int argc, char* argv[]) {
 	char *fileName;
-	int *numbers;
-	int numberCount;
+	int *numbers, numberCount;
 	clock_t start, end;
 	float secondsElapsed;
 
-	// parse the command line arguments
+	// retrieve the file name from the command line
 	fileName = argv[1];
-	numberCount = atoi(argv[2]);
 
 	numbers = retrieveNumbersFromFileIntoArray(fileName);
+
+	/*numberCount = sizeof(&numbers) / sizeof(numbers[0]);*/
+	numberCount = sizeof(&numbers) / sizeof(*numbers);
+	printf("%d", numberCount);
 
 	/*int n = sizeof(&numbers) / sizeof(numbers[0]);*/
 	/*printf("%d", n);*/
