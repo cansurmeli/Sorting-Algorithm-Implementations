@@ -1,7 +1,3 @@
-#!/bin/bash
-
-COMMAND_LINE_ARGUMENTS=$@
-
 parseCommandLineArguments() {
 	POSITIONAL=()
 	while [[ $# -gt 0 ]]
@@ -9,22 +5,19 @@ parseCommandLineArguments() {
 		key="$1"
 
 		case $key in
-				-o|--output)
-				OUTPUT_LOCATION="$2"
-				echo "output"
-				echo $OUTPUT_LOCATION
+				-h|--help)
+				HELP="$2"
+				less "help.txt"
+				exit 0											# as expected, display the help and exit
 				shift												# past argument
-				shift												# past value
 				;;
-				-n|--numberCount)
-				echo "numberCount"
-				NUMBER_COUNT="$2"
-				echo $NUMBER_COUNT
+				-o|--output)
+				LOG_OUTPUT_LOCATION="$2"
 				shift												# past argument
 				shift												# past value
 				;;
 				-v|--verbose)
-				IS_VERBOSE=true
+				isVerbose=true
 				shift												# past argument
 				;;
 				--default)
@@ -39,12 +32,3 @@ parseCommandLineArguments() {
 	done
 	set -- "${POSITIONAL[@]}"					# restore positional parameters
 }
-
-generateRandomNumbers() {
-	parseCommandLineArguments "$COMMAND_LINE_ARGUMENTS"
-	#echo $OUTPUT_LOCATION
-	#echo $NUMBER_COUNT
-	#echo $IS_VERBOSE
-}
-
-generateRandomNumbers
