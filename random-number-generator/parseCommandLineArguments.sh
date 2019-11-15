@@ -11,16 +11,26 @@ parseCommandLineArguments() {
 				exit 0											# as expected, display the help and exit
 				shift												# past argument
 				;;
-				-o|--output)
-				LOG_OUTPUT_LOCATION="$2"
+				-f|--file)
+				echo "file"
+				FILE_NAME="$2"
+				shift												# past argument
+				shift												# past value
+				;;
+				-n|--number)
+				echo "number"
+				NUMBER_COUNT="$2"
+				echo $NUMBER_COUNT
 				shift												# past argument
 				shift												# past value
 				;;
 				-v|--verbose)
-				isVerbose=true
+				echo "verbose"
+				IS_VERBOSE=true
 				shift												# past argument
 				;;
 				--default)
+				echo "default"
 				DEFAULT=YES
 				shift												# past argument
 				;;
