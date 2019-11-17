@@ -1,17 +1,19 @@
 /*Retrieves the numbers in a given text file and returns the numbers in an array.*/
-int * retrieveNumbersFromFileIntoArray(char fileName[]) {
-	FILE *file = fopen(fileName, "r");
+void retrieveNumbersFromFileIntoArray(char fileName[], int *numbers) {
+	FILE *file = fopen(strcat(fileName, ".txt"), "r");
 	char *fileLine = NULL;
 	size_t len = 0;
 	ssize_t read;
-	static int numbers[100000];
 	int numberIndex= 0;
 
 	// check if the file exists
 	if (file == NULL) {
 		printf("Could not open the file!\n");
-		return 0;
+
+		return;
 	}
+
+	printf("Started with retrieving the numbers from the text file.\n");
 
 	// retieve the file contents
 	do {
@@ -20,5 +22,5 @@ int * retrieveNumbersFromFileIntoArray(char fileName[]) {
 		numberIndex++;
 	} while(read != -1);
 
-	return numbers;
+	printf("Ended with retrieving the numbers from the text file.\n");
 }

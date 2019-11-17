@@ -2,6 +2,9 @@
 #include <string.h>
 #include <time.h>
 #include <stdlib.h>
+#include "../shared-code-base/c/generateCSVFile.c"
+#include "../shared-code-base/c/printArray.c"
+#include "../shared-code-base/c/retrieveNumbersFromFileIntoArray.c"
 
 void swap(int *a, int *b) {
 	int temp = *a;
@@ -9,45 +12,52 @@ void swap(int *a, int *b) {
 	*b = temp;
 }
 
-void bubbleSort(int array[], int n) {
+void bubbleSort(int array[], int arrayItemCount, int *operationCount) {
 	int i, j;
 
-	for (i = 0; i < n-1; i++) {
-		for (j = 0; j < n-i-1; j++) {
+	printf("Started with the bubble sort.\n");
+
+	for (i = 0; i < arrayItemCount-1; i++) {
+		for (j = 0; j < arrayItemCount-i-1; j++) {
 			if (array[j] > array[j+1]) {
 				swap(&array[j], &array[j+1]);
+				(*operationCount)++;
 			}
 		}
 	}
+	
+	printf("Finished with the bubble sort.\n");
 }
 
 int main(int argc, char* argv[]) {
 	char *fileName;
-	int *numbers, numberCount;
+	int numberCount,
+			operationCount = 0;
 	clock_t start, end;
 	float secondsElapsed;
 
 	// retrieve the file name from the command line
 	fileName = argv[1];
 
-	numbers = retrieveNumbersFromFileIntoArray(fileName);
+	// retrieve the number count from the command line
+	numberCount = atoi(argv[2]);
 
-	/*numberCount = sizeof(&numbers) / sizeof(numbers[0]);*/
-	numberCount = sizeof(&numbers) / sizeof(*numbers);
-	printf("%d", numberCount);
+	// Generate an array based on the given number count
+	int numbers[numberCount];
 
-	/*int n = sizeof(&numbers) / sizeof(numbers[0]);*/
-	/*printf("%d", n);*/
-
+	retrieveNumbersFromFileIntoArray(fileName, numbers);
+	
 	start = clock();
-	bubbleSort(numbers, numberCount);
+	bubbleSort(numbers, numberCount, &operationCount);
 	end = clock();
 
 	secondsElapsed = (float)(end - start) / CLOCKS_PER_SEC;
 	printf("TIME ELAPSED: %.6f\n", secondsElapsed);
 
+	generateCSVFile(fileName, secondsElapsed, numberCount, operationCount);
+
 	/*printf("SORTED ARRAY:\n");*/
-	/*printArray(numbers, numberCount);*/
+	/*printArray(numbers, numberCount, 1);*/
 
 	return 0;
 }
