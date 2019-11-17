@@ -1,6 +1,6 @@
 /*Retrieves the numbers in a given text file and returns the numbers in an array.*/
 void retrieveNumbersFromFileIntoArray(char fileName[], int *numbers) {
-	FILE *file = fopen(strcat(fileName, ".txt"), "r");
+	FILE *file = fopen(fileName, "r");
 	char *fileLine = NULL;
 	size_t len = 0;
 	ssize_t read;
