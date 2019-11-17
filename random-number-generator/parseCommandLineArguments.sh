@@ -4,16 +4,18 @@ parseCommandLineArguments() {
 	do
 		key="$1"
 
+		echo $2
 		case $key in
-				-h|--help)
-				HELP="$2"
-				less "help.txt"
-				exit 0											# as expected, display the help and exit
-				shift												# past argument
-				;;
+				#-h|--help)
+				#HELP="$2"
+				#less "help.txt"
+				#exit 0											# as expected, display the help and exit
+				#shift												# past argument
+				#;;
 				-f|--file)
 				echo "file"
 				FILE_NAME="$2"
+				echo $FILE_NAME
 				shift												# past argument
 				shift												# past value
 				;;
