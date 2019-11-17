@@ -1,3 +1,0 @@
-printNewLine() {
-	echo ""
-}

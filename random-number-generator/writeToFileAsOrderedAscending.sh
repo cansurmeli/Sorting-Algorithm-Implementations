@@ -1,3 +1,3 @@
 writeToFileAsOrderedAscending() {
-	sort -g $FILE_NAME.txt > $FILE_NAME-ordered-ascending.txt
+	sort -g $FILE_NAME-unordered.txt > $FILE_NAME-ordered-ascending.txt
 }
