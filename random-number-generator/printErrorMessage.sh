@@ -1,3 +1,12 @@
+################################################################################
+# Prints the given string as an error message.
+# Globals:
+#   nothing
+# Arguments:
+#   $1: the error message string
+# Returns:
+#   nothing
+################################################################################
 printErrorMessage() {
 	BOLD='\033[1m'
 	BOLD_RESET='\033[21m'

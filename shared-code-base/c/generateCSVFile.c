@@ -3,9 +3,9 @@ void generateCSVFile(char fileName[], float secondsElapsed, int numberCount, int
 
 	csvFile = fopen(strcat(fileName, ".csv"), "w+");
 
-	fprintf(csvFile, "Seconds Elapsed, Number Count, Operation Count\n");
+	fprintf(csvFile, "File Name, Seconds Elapsed, Number Count, Operation Count\n");
 
-	fprintf(csvFile, "%f,%d,%d", secondsElapsed, numberCount, operationCount);
+	fprintf(csvFile, "%s, %f,%d,%d", fileName, secondsElapsed, numberCount, operationCount);
 
 	fclose(csvFile);
 

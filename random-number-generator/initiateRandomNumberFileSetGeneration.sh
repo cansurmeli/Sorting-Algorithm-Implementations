@@ -49,11 +49,23 @@ do
 done
 set -- "${POSITIONAL[@]}"					# restore positional parameters
 
-main() {
+################################################################################
+# Initiates the generation of a file set of three:
+#  - an unordered file with random numbers,
+#  - the above file sorted in ascending order,
+#  - the above file flipped to be descending.
+# Globals:
+#   [TODO:var-name]
+# Arguments:
+#   $1: [TODO:description]
+# Returns:
+#   [TODO:description]
+################################################################################
+initiateRandomNumberFileSetGeneration() {
 	#parseCommandLineArguments "$COMMAND_LINE_ARGUMENTS"
 	generateRandomNumbersToFileAsUnordered
 	writeToFileAsOrderedAscending
 	writeToFileAsOrderedDescending
 }
 
-main
+initiateRandomNumberFileSetGeneration
