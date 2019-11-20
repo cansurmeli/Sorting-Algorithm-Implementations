@@ -15,3 +15,9 @@ cd data-set
 cat *.csv >results-insertion-sort.csv
 mv results-insertion-sort.csv ../
 rm *.csv
+
+# Add a header to the merged results file to be able to identify the data during analysis
+cd ../
+echo 'FileName, SecondsElapsed, NumberCount, OperationCount\n' > temp_file.csv
+cat results-insertion-sort.csv >> temp_file.csv
+mv temp_file.csv results-insertion-sort.csv
