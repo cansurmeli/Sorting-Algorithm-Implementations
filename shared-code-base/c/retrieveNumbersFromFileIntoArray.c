@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <string.h>
+
 /*Retrieves the numbers in a given text file and returns the numbers in an
  * array.*/
 void retrieveNumbersFromFileIntoArray(char fileName[], int *numbers) {
@@ -14,7 +17,7 @@ void retrieveNumbersFromFileIntoArray(char fileName[], int *numbers) {
     return;
   }
 
-  printf("Started with retrieving the numbers from the text file.\n");
+  /*printf("Started with retrieving the numbers from the text file.\n");*/
 
   // retieve the file contents
   do {
@@ -23,5 +26,5 @@ void retrieveNumbersFromFileIntoArray(char fileName[], int *numbers) {
     numberIndex++;
   } while (read != -1);
 
-  printf("Ended with retrieving the numbers from the text file.\n");
+  /*printf("Ended with retrieving the numbers from the text file.\n");*/
 }

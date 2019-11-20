@@ -15,7 +15,7 @@ void swap(int *a, int *b) {
 void bubbleSort(int array[], int arrayItemCount, int *operationCount) {
   int i, j;
 
-  printf("Started with the bubble sort.\n");
+  /*printf("Started with the bubble sort.\n");*/
 
   for (i = 0; i < arrayItemCount - 1; i++) {
     for (j = 0; j < arrayItemCount - i - 1; j++) {
@@ -26,7 +26,7 @@ void bubbleSort(int array[], int arrayItemCount, int *operationCount) {
     }
   }
 
-  printf("Finished with the bubble sort.\n");
+  /*printf("Finished with the bubble sort.\n");*/
 }
 
 int main(int argc, char *argv[]) {

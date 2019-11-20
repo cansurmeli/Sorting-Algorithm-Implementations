@@ -1,13 +1,20 @@
-void generateCSVFile(char fileName[], float secondsElapsed, int numberCount, int operationCount) {
-	FILE *csvFile;
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-	csvFile = fopen(strcat(fileName, ".csv"), "w+");
+void generateCSVFile(char fileName[], float secondsElapsed, int numberCount,
+                     int operationCount) {
+  FILE *csvFile;
 
-	fprintf(csvFile, "File Name, Seconds Elapsed, Number Count, Operation Count\n");
+  csvFile = fopen(strcat(fileName, ".csv"), "w+");
 
-	fprintf(csvFile, "%s, %f,%d,%d", fileName, secondsElapsed, numberCount, operationCount);
+  /*fprintf(csvFile, "File Name, Seconds Elapsed, Number Count, Operation
+   * Count\n");*/
 
-	fclose(csvFile);
+  fprintf(csvFile, "%s, %f,%d,%d\n", fileName, secondsElapsed, numberCount,
+          operationCount);
 
-	printf("Generated a CSV file for the results.\n");
+  fclose(csvFile);
+
+  /*printf("Generated a CSV file for the results.\n");*/
 }
