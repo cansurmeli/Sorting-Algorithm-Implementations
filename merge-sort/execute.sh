@@ -5,8 +5,10 @@ do
 	numberCount="$(wc -l < $file)"
 	numberCount=$((numberCount+1))
 
-	time ./merge-sort $file $numberCount >$file.csv
-	mv $file.csv data-set/results-merge-sort/
+	output="$(time ./merge-sort $file)"
+	#echo $output
+	array=( $output )
+	#echo ${a[1]}
 done
 
 cd data-set/results-merge-sort

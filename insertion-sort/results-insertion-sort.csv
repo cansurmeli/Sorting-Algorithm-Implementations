@@ -1,902 +1,902 @@
-FileName, SecondsElapsed, NumberCount, OperationCount
+FileName, KnownNumberArrangement, SecondsElapsed, NumberCount, OperationCount
 
-data-set/100-numbers-0-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-0-ordered-descending.txt.csv, 0.000020,100,4949
-data-set/100-numbers-0-unordered.txt.csv, 0.000013,100,2727
-data-set/100-numbers-1-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-1-ordered-descending.txt.csv, 0.000039,100,4950
-data-set/100-numbers-1-unordered.txt.csv, 0.000009,100,2267
-data-set/100-numbers-10-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-10-ordered-descending.txt.csv, 0.000016,100,4950
-data-set/100-numbers-10-unordered.txt.csv, 0.000009,100,2653
-data-set/100-numbers-11-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-11-ordered-descending.txt.csv, 0.000014,100,4950
-data-set/100-numbers-11-unordered.txt.csv, 0.000009,100,2181
-data-set/100-numbers-12-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-12-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-12-unordered.txt.csv, 0.000010,100,2789
-data-set/100-numbers-13-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-13-ordered-descending.txt.csv, 0.000017,100,4950
-data-set/100-numbers-13-unordered.txt.csv, 0.000010,100,2627
-data-set/100-numbers-14-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-14-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-14-unordered.txt.csv, 0.000010,100,2416
-data-set/100-numbers-15-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-15-ordered-descending.txt.csv, 0.000016,100,4950
-data-set/100-numbers-15-unordered.txt.csv, 0.000015,100,2598
-data-set/100-numbers-16-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-16-ordered-descending.txt.csv, 0.000015,100,4949
-data-set/100-numbers-16-unordered.txt.csv, 0.000010,100,2643
-data-set/100-numbers-17-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-17-ordered-descending.txt.csv, 0.000016,100,4950
-data-set/100-numbers-17-unordered.txt.csv, 0.000009,100,2436
-data-set/100-numbers-18-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-18-ordered-descending.txt.csv, 0.000016,100,4950
-data-set/100-numbers-18-unordered.txt.csv, 0.000010,100,2734
-data-set/100-numbers-19-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-19-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-19-unordered.txt.csv, 0.000010,100,2325
-data-set/100-numbers-2-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-2-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-2-unordered.txt.csv, 0.000017,100,2633
-data-set/100-numbers-20-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-20-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-20-unordered.txt.csv, 0.000009,100,2363
-data-set/100-numbers-21-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-21-ordered-descending.txt.csv, 0.000025,100,4950
-data-set/100-numbers-21-unordered.txt.csv, 0.000010,100,2630
-data-set/100-numbers-22-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-22-ordered-descending.txt.csv, 0.000033,100,4949
-data-set/100-numbers-22-unordered.txt.csv, 0.000010,100,2476
-data-set/100-numbers-23-ordered-ascending.txt.csv, 0.000005,100,99
-data-set/100-numbers-23-ordered-descending.txt.csv, 0.000026,100,4950
-data-set/100-numbers-23-unordered.txt.csv, 0.000010,100,2600
-data-set/100-numbers-24-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-24-ordered-descending.txt.csv, 0.000018,100,4950
-data-set/100-numbers-24-unordered.txt.csv, 0.000013,100,2340
-data-set/100-numbers-25-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-25-ordered-descending.txt.csv, 0.000028,100,4950
-data-set/100-numbers-25-unordered.txt.csv, 0.000016,100,2495
-data-set/100-numbers-26-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-26-ordered-descending.txt.csv, 0.000024,100,4950
-data-set/100-numbers-26-unordered.txt.csv, 0.000023,100,2646
-data-set/100-numbers-27-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-27-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-27-unordered.txt.csv, 0.000009,100,2443
-data-set/100-numbers-28-ordered-ascending.txt.csv, 0.000015,100,99
-data-set/100-numbers-28-ordered-descending.txt.csv, 0.000023,100,4950
-data-set/100-numbers-28-unordered.txt.csv, 0.000009,100,2339
-data-set/100-numbers-29-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-29-ordered-descending.txt.csv, 0.000016,100,4950
-data-set/100-numbers-29-unordered.txt.csv, 0.000013,100,2357
-data-set/100-numbers-3-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-3-ordered-descending.txt.csv, 0.000016,100,4950
-data-set/100-numbers-3-unordered.txt.csv, 0.000010,100,2506
-data-set/100-numbers-30-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-30-ordered-descending.txt.csv, 0.000016,100,4950
-data-set/100-numbers-30-unordered.txt.csv, 0.000009,100,2276
-data-set/100-numbers-31-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-31-ordered-descending.txt.csv, 0.000025,100,4949
-data-set/100-numbers-31-unordered.txt.csv, 0.000017,100,2402
-data-set/100-numbers-32-ordered-ascending.txt.csv, 0.000007,100,99
-data-set/100-numbers-32-ordered-descending.txt.csv, 0.000023,100,4950
-data-set/100-numbers-32-unordered.txt.csv, 0.000010,100,2826
-data-set/100-numbers-33-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-33-ordered-descending.txt.csv, 0.000031,100,4950
-data-set/100-numbers-33-unordered.txt.csv, 0.000019,100,2613
-data-set/100-numbers-34-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-34-ordered-descending.txt.csv, 0.000022,100,4950
-data-set/100-numbers-34-unordered.txt.csv, 0.000014,100,2589
-data-set/100-numbers-35-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-35-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-35-unordered.txt.csv, 0.000019,100,2636
-data-set/100-numbers-36-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-36-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-36-unordered.txt.csv, 0.000017,100,2454
-data-set/100-numbers-37-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-37-ordered-descending.txt.csv, 0.000019,100,4950
-data-set/100-numbers-37-unordered.txt.csv, 0.000015,100,2669
-data-set/100-numbers-38-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-38-ordered-descending.txt.csv, 0.000034,100,4950
-data-set/100-numbers-38-unordered.txt.csv, 0.000023,100,2651
-data-set/100-numbers-39-ordered-ascending.txt.csv, 0.000005,100,99
-data-set/100-numbers-39-ordered-descending.txt.csv, 0.000033,100,4950
-data-set/100-numbers-39-unordered.txt.csv, 0.000018,100,2481
-data-set/100-numbers-4-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-4-ordered-descending.txt.csv, 0.000044,100,4950
-data-set/100-numbers-4-unordered.txt.csv, 0.000019,100,2273
-data-set/100-numbers-40-ordered-ascending.txt.csv, 0.000005,100,99
-data-set/100-numbers-40-ordered-descending.txt.csv, 0.000034,100,4949
-data-set/100-numbers-40-unordered.txt.csv, 0.000017,100,2399
-data-set/100-numbers-41-ordered-ascending.txt.csv, 0.000006,100,99
-data-set/100-numbers-41-ordered-descending.txt.csv, 0.000037,100,4950
-data-set/100-numbers-41-unordered.txt.csv, 0.000020,100,2631
-data-set/100-numbers-42-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-42-ordered-descending.txt.csv, 0.000031,100,4950
-data-set/100-numbers-42-unordered.txt.csv, 0.000014,100,2873
-data-set/100-numbers-43-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-43-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-43-unordered.txt.csv, 0.000017,100,2337
-data-set/100-numbers-44-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-44-ordered-descending.txt.csv, 0.000031,100,4950
-data-set/100-numbers-44-unordered.txt.csv, 0.000017,100,2563
-data-set/100-numbers-45-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-45-ordered-descending.txt.csv, 0.000030,100,4950
-data-set/100-numbers-45-unordered.txt.csv, 0.000012,100,2517
-data-set/100-numbers-46-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-46-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-46-unordered.txt.csv, 0.000013,100,2623
-data-set/100-numbers-47-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-47-ordered-descending.txt.csv, 0.000020,100,4949
-data-set/100-numbers-47-unordered.txt.csv, 0.000011,100,2292
-data-set/100-numbers-48-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-48-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-48-unordered.txt.csv, 0.000014,100,2686
-data-set/100-numbers-49-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-49-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-49-unordered.txt.csv, 0.000011,100,2349
-data-set/100-numbers-5-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-5-ordered-descending.txt.csv, 0.000021,100,4950
-data-set/100-numbers-5-unordered.txt.csv, 0.000012,100,2473
-data-set/100-numbers-50-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-50-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-50-unordered.txt.csv, 0.000013,100,2461
-data-set/100-numbers-51-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-51-ordered-descending.txt.csv, 0.000019,100,4950
-data-set/100-numbers-51-unordered.txt.csv, 0.000011,100,2436
-data-set/100-numbers-52-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-52-ordered-descending.txt.csv, 0.000021,100,4950
-data-set/100-numbers-52-unordered.txt.csv, 0.000013,100,2638
-data-set/100-numbers-53-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-53-ordered-descending.txt.csv, 0.000030,100,4950
-data-set/100-numbers-53-unordered.txt.csv, 0.000013,100,2728
-data-set/100-numbers-54-ordered-ascending.txt.csv, 0.000005,100,99
-data-set/100-numbers-54-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-54-unordered.txt.csv, 0.000013,100,2714
-data-set/100-numbers-55-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-55-ordered-descending.txt.csv, 0.000035,100,4950
-data-set/100-numbers-55-unordered.txt.csv, 0.000031,100,2444
-data-set/100-numbers-56-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-56-ordered-descending.txt.csv, 0.000029,100,4950
-data-set/100-numbers-56-unordered.txt.csv, 0.000016,100,2441
-data-set/100-numbers-57-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-57-ordered-descending.txt.csv, 0.000024,100,4949
-data-set/100-numbers-57-unordered.txt.csv, 0.000041,100,2710
-data-set/100-numbers-58-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-58-ordered-descending.txt.csv, 0.000022,100,4950
-data-set/100-numbers-58-unordered.txt.csv, 0.000024,100,2361
-data-set/100-numbers-59-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-59-ordered-descending.txt.csv, 0.000032,100,4950
-data-set/100-numbers-59-unordered.txt.csv, 0.000020,100,2575
-data-set/100-numbers-6-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-6-ordered-descending.txt.csv, 0.000033,100,4950
-data-set/100-numbers-6-unordered.txt.csv, 0.000019,100,2469
-data-set/100-numbers-60-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-60-ordered-descending.txt.csv, 0.000030,100,4950
-data-set/100-numbers-60-unordered.txt.csv, 0.000015,100,2419
-data-set/100-numbers-61-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-61-ordered-descending.txt.csv, 0.000034,100,4950
-data-set/100-numbers-61-unordered.txt.csv, 0.000013,100,2529
-data-set/100-numbers-62-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-62-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-62-unordered.txt.csv, 0.000016,100,2866
-data-set/100-numbers-63-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-63-ordered-descending.txt.csv, 0.000019,100,4950
-data-set/100-numbers-63-unordered.txt.csv, 0.000012,100,2265
-data-set/100-numbers-64-ordered-ascending.txt.csv, 0.000013,100,99
-data-set/100-numbers-64-ordered-descending.txt.csv, 0.000033,100,4950
-data-set/100-numbers-64-unordered.txt.csv, 0.000021,100,2510
-data-set/100-numbers-65-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-65-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-65-unordered.txt.csv, 0.000013,100,2249
-data-set/100-numbers-66-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-66-ordered-descending.txt.csv, 0.000020,100,4950
-data-set/100-numbers-66-unordered.txt.csv, 0.000013,100,2572
-data-set/100-numbers-67-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-67-ordered-descending.txt.csv, 0.000021,100,4950
-data-set/100-numbers-67-unordered.txt.csv, 0.000013,100,2364
-data-set/100-numbers-68-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-68-ordered-descending.txt.csv, 0.000021,100,4950
-data-set/100-numbers-68-unordered.txt.csv, 0.000017,100,2456
-data-set/100-numbers-69-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-69-ordered-descending.txt.csv, 0.000019,100,4950
-data-set/100-numbers-69-unordered.txt.csv, 0.000012,100,2476
-data-set/100-numbers-7-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-7-ordered-descending.txt.csv, 0.000026,100,4950
-data-set/100-numbers-7-unordered.txt.csv, 0.000014,100,2838
-data-set/100-numbers-70-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-70-ordered-descending.txt.csv, 0.000031,100,4950
-data-set/100-numbers-70-unordered.txt.csv, 0.000026,100,2684
-data-set/100-numbers-71-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-71-ordered-descending.txt.csv, 0.000022,100,4950
-data-set/100-numbers-71-unordered.txt.csv, 0.000016,100,2554
-data-set/100-numbers-72-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-72-ordered-descending.txt.csv, 0.000030,100,4950
-data-set/100-numbers-72-unordered.txt.csv, 0.000011,100,2280
-data-set/100-numbers-73-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-73-ordered-descending.txt.csv, 0.000026,100,4949
-data-set/100-numbers-73-unordered.txt.csv, 0.000013,100,2376
-data-set/100-numbers-74-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-74-ordered-descending.txt.csv, 0.000023,100,4950
-data-set/100-numbers-74-unordered.txt.csv, 0.000011,100,2693
-data-set/100-numbers-75-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-75-ordered-descending.txt.csv, 0.000023,100,4950
-data-set/100-numbers-75-unordered.txt.csv, 0.000012,100,2492
-data-set/100-numbers-76-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-76-ordered-descending.txt.csv, 0.000023,100,4950
-data-set/100-numbers-76-unordered.txt.csv, 0.000009,100,2475
-data-set/100-numbers-77-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-77-ordered-descending.txt.csv, 0.000024,100,4949
-data-set/100-numbers-77-unordered.txt.csv, 0.000012,100,2284
-data-set/100-numbers-78-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-78-ordered-descending.txt.csv, 0.000022,100,4950
-data-set/100-numbers-78-unordered.txt.csv, 0.000013,100,2577
-data-set/100-numbers-79-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-79-ordered-descending.txt.csv, 0.000015,100,4949
-data-set/100-numbers-79-unordered.txt.csv, 0.000010,100,2594
-data-set/100-numbers-8-ordered-ascending.txt.csv, 0.000005,100,99
-data-set/100-numbers-8-ordered-descending.txt.csv, 0.000023,100,4950
-data-set/100-numbers-8-unordered.txt.csv, 0.000010,100,2635
-data-set/100-numbers-80-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-80-ordered-descending.txt.csv, 0.000023,100,4950
-data-set/100-numbers-80-unordered.txt.csv, 0.000015,100,2507
-data-set/100-numbers-81-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-81-ordered-descending.txt.csv, 0.000017,100,4950
-data-set/100-numbers-81-unordered.txt.csv, 0.000008,100,2339
-data-set/100-numbers-82-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-82-ordered-descending.txt.csv, 0.000016,100,4950
-data-set/100-numbers-82-unordered.txt.csv, 0.000014,100,2649
-data-set/100-numbers-83-ordered-ascending.txt.csv, 0.000002,100,98
-data-set/100-numbers-83-ordered-descending.txt.csv, 0.000026,100,4949
-data-set/100-numbers-83-unordered.txt.csv, 0.000014,100,2529
-data-set/100-numbers-84-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-84-ordered-descending.txt.csv, 0.000024,100,4950
-data-set/100-numbers-84-unordered.txt.csv, 0.000009,100,2333
-data-set/100-numbers-85-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-85-ordered-descending.txt.csv, 0.000024,100,4950
-data-set/100-numbers-85-unordered.txt.csv, 0.000014,100,2652
-data-set/100-numbers-86-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-86-ordered-descending.txt.csv, 0.000025,100,4950
-data-set/100-numbers-86-unordered.txt.csv, 0.000009,100,2552
-data-set/100-numbers-87-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-87-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-87-unordered.txt.csv, 0.000010,100,2521
-data-set/100-numbers-88-ordered-ascending.txt.csv, 0.000021,100,99
-data-set/100-numbers-88-ordered-descending.txt.csv, 0.000017,100,4950
-data-set/100-numbers-88-unordered.txt.csv, 0.000016,100,2826
-data-set/100-numbers-89-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-89-ordered-descending.txt.csv, 0.000023,100,4950
-data-set/100-numbers-89-unordered.txt.csv, 0.000013,100,2536
-data-set/100-numbers-9-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-9-ordered-descending.txt.csv, 0.000036,100,4950
-data-set/100-numbers-9-unordered.txt.csv, 0.000012,100,2400
-data-set/100-numbers-90-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-90-ordered-descending.txt.csv, 0.000015,100,4949
-data-set/100-numbers-90-unordered.txt.csv, 0.000009,100,2401
-data-set/100-numbers-91-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-91-ordered-descending.txt.csv, 0.000024,100,4950
-data-set/100-numbers-91-unordered.txt.csv, 0.000010,100,2453
-data-set/100-numbers-92-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-92-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-92-unordered.txt.csv, 0.000010,100,2490
-data-set/100-numbers-93-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-93-ordered-descending.txt.csv, 0.000027,100,4950
-data-set/100-numbers-93-unordered.txt.csv, 0.000010,100,2564
-data-set/100-numbers-94-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-94-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-94-unordered.txt.csv, 0.000009,100,2465
-data-set/100-numbers-95-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-95-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-95-unordered.txt.csv, 0.000009,100,2369
-data-set/100-numbers-96-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-96-ordered-descending.txt.csv, 0.000014,100,4950
-data-set/100-numbers-96-unordered.txt.csv, 0.000029,100,2679
-data-set/100-numbers-97-ordered-ascending.txt.csv, 0.000002,100,99
-data-set/100-numbers-97-ordered-descending.txt.csv, 0.000024,100,4950
-data-set/100-numbers-97-unordered.txt.csv, 0.000013,100,2576
-data-set/100-numbers-98-ordered-ascending.txt.csv, 0.000003,100,99
-data-set/100-numbers-98-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-98-unordered.txt.csv, 0.000012,100,2539
-data-set/100-numbers-99-ordered-ascending.txt.csv, 0.000004,100,99
-data-set/100-numbers-99-ordered-descending.txt.csv, 0.000015,100,4950
-data-set/100-numbers-99-unordered.txt.csv, 0.000015,100,2562
-data-set/1000-numbers-0-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-0-ordered-descending.txt.csv, 0.001568,1000,499481
-data-set/1000-numbers-0-unordered.txt.csv, 0.000864,1000,239640
-data-set/1000-numbers-1-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-1-ordered-descending.txt.csv, 0.001612,1000,499479
-data-set/1000-numbers-1-unordered.txt.csv, 0.000821,1000,254474
-data-set/1000-numbers-10-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-10-ordered-descending.txt.csv, 0.001638,1000,499484
-data-set/1000-numbers-10-unordered.txt.csv, 0.000974,1000,240116
-data-set/1000-numbers-11-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-11-ordered-descending.txt.csv, 0.001718,1000,499488
-data-set/1000-numbers-11-unordered.txt.csv, 0.000735,1000,252665
-data-set/1000-numbers-12-ordered-ascending.txt.csv, 0.000010,1000,999
-data-set/1000-numbers-12-ordered-descending.txt.csv, 0.001595,1000,499490
-data-set/1000-numbers-12-unordered.txt.csv, 0.000880,1000,251345
-data-set/1000-numbers-13-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-13-ordered-descending.txt.csv, 0.001496,1000,499482
-data-set/1000-numbers-13-unordered.txt.csv, 0.000795,1000,240593
-data-set/1000-numbers-14-ordered-ascending.txt.csv, 0.000013,1000,999
-data-set/1000-numbers-14-ordered-descending.txt.csv, 0.001309,1000,499478
-data-set/1000-numbers-14-unordered.txt.csv, 0.000664,1000,249555
-data-set/1000-numbers-15-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-15-ordered-descending.txt.csv, 0.001335,1000,499483
-data-set/1000-numbers-15-unordered.txt.csv, 0.000827,1000,264678
-data-set/1000-numbers-16-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-16-ordered-descending.txt.csv, 0.001509,1000,499486
-data-set/1000-numbers-16-unordered.txt.csv, 0.000977,1000,250523
-data-set/1000-numbers-17-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-17-ordered-descending.txt.csv, 0.002114,1000,499484
-data-set/1000-numbers-17-unordered.txt.csv, 0.000901,1000,246366
-data-set/1000-numbers-18-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-18-ordered-descending.txt.csv, 0.001314,1000,499486
-data-set/1000-numbers-18-unordered.txt.csv, 0.000654,1000,246523
-data-set/1000-numbers-19-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-19-ordered-descending.txt.csv, 0.002222,1000,499484
-data-set/1000-numbers-19-unordered.txt.csv, 0.000664,1000,249396
-data-set/1000-numbers-2-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-2-ordered-descending.txt.csv, 0.001919,1000,499487
-data-set/1000-numbers-2-unordered.txt.csv, 0.000651,1000,243765
-data-set/1000-numbers-20-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-20-ordered-descending.txt.csv, 0.001410,1000,499485
-data-set/1000-numbers-20-unordered.txt.csv, 0.001058,1000,253119
-data-set/1000-numbers-21-ordered-ascending.txt.csv, 0.000014,1000,999
-data-set/1000-numbers-21-ordered-descending.txt.csv, 0.002006,1000,499486
-data-set/1000-numbers-21-unordered.txt.csv, 0.000906,1000,245903
-data-set/1000-numbers-22-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-22-ordered-descending.txt.csv, 0.001675,1000,499481
-data-set/1000-numbers-22-unordered.txt.csv, 0.000872,1000,244681
-data-set/1000-numbers-23-ordered-ascending.txt.csv, 0.000007,1000,998
-data-set/1000-numbers-23-ordered-descending.txt.csv, 0.002460,1000,499488
-data-set/1000-numbers-23-unordered.txt.csv, 0.001078,1000,259400
-data-set/1000-numbers-24-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-24-ordered-descending.txt.csv, 0.001323,1000,499490
-data-set/1000-numbers-24-unordered.txt.csv, 0.001055,1000,256519
-data-set/1000-numbers-25-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-25-ordered-descending.txt.csv, 0.002009,1000,499489
-data-set/1000-numbers-25-unordered.txt.csv, 0.001008,1000,241755
-data-set/1000-numbers-26-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-26-ordered-descending.txt.csv, 0.002085,1000,499486
-data-set/1000-numbers-26-unordered.txt.csv, 0.001040,1000,244981
-data-set/1000-numbers-27-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-27-ordered-descending.txt.csv, 0.001716,1000,499483
-data-set/1000-numbers-27-unordered.txt.csv, 0.000795,1000,257802
-data-set/1000-numbers-28-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-28-ordered-descending.txt.csv, 0.001738,1000,499484
-data-set/1000-numbers-28-unordered.txt.csv, 0.000768,1000,252439
-data-set/1000-numbers-29-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-29-ordered-descending.txt.csv, 0.001762,1000,499486
-data-set/1000-numbers-29-unordered.txt.csv, 0.001096,1000,251053
-data-set/1000-numbers-3-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-3-ordered-descending.txt.csv, 0.001687,1000,499489
-data-set/1000-numbers-3-unordered.txt.csv, 0.000703,1000,246501
-data-set/1000-numbers-30-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-30-ordered-descending.txt.csv, 0.001667,1000,499481
-data-set/1000-numbers-30-unordered.txt.csv, 0.000670,1000,252071
-data-set/1000-numbers-31-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-31-ordered-descending.txt.csv, 0.001434,1000,499474
-data-set/1000-numbers-31-unordered.txt.csv, 0.000661,1000,249022
-data-set/1000-numbers-32-ordered-ascending.txt.csv, 0.000007,1000,998
-data-set/1000-numbers-32-ordered-descending.txt.csv, 0.001390,1000,499483
-data-set/1000-numbers-32-unordered.txt.csv, 0.001031,1000,243924
-data-set/1000-numbers-33-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-33-ordered-descending.txt.csv, 0.002044,1000,499482
-data-set/1000-numbers-33-unordered.txt.csv, 0.000978,1000,239077
-data-set/1000-numbers-34-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-34-ordered-descending.txt.csv, 0.002034,1000,499482
-data-set/1000-numbers-34-unordered.txt.csv, 0.000640,1000,246817
-data-set/1000-numbers-35-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-35-ordered-descending.txt.csv, 0.001820,1000,499483
-data-set/1000-numbers-35-unordered.txt.csv, 0.001064,1000,251883
-data-set/1000-numbers-36-ordered-ascending.txt.csv, 0.000009,1000,999
-data-set/1000-numbers-36-ordered-descending.txt.csv, 0.001869,1000,499487
-data-set/1000-numbers-36-unordered.txt.csv, 0.001024,1000,245381
-data-set/1000-numbers-37-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-37-ordered-descending.txt.csv, 0.001451,1000,499486
-data-set/1000-numbers-37-unordered.txt.csv, 0.001029,1000,257382
-data-set/1000-numbers-38-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-38-ordered-descending.txt.csv, 0.001748,1000,499483
-data-set/1000-numbers-38-unordered.txt.csv, 0.000692,1000,260238
-data-set/1000-numbers-39-ordered-ascending.txt.csv, 0.000021,1000,999
-data-set/1000-numbers-39-ordered-descending.txt.csv, 0.001689,1000,499489
-data-set/1000-numbers-39-unordered.txt.csv, 0.000717,1000,248445
-data-set/1000-numbers-4-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-4-ordered-descending.txt.csv, 0.001831,1000,499490
-data-set/1000-numbers-4-unordered.txt.csv, 0.000819,1000,253244
-data-set/1000-numbers-40-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-40-ordered-descending.txt.csv, 0.001463,1000,499482
-data-set/1000-numbers-40-unordered.txt.csv, 0.000805,1000,252404
-data-set/1000-numbers-41-ordered-ascending.txt.csv, 0.000010,1000,999
-data-set/1000-numbers-41-ordered-descending.txt.csv, 0.001585,1000,499482
-data-set/1000-numbers-41-unordered.txt.csv, 0.000735,1000,257347
-data-set/1000-numbers-42-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-42-ordered-descending.txt.csv, 0.001905,1000,499483
-data-set/1000-numbers-42-unordered.txt.csv, 0.000774,1000,246669
-data-set/1000-numbers-43-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-43-ordered-descending.txt.csv, 0.001752,1000,499488
-data-set/1000-numbers-43-unordered.txt.csv, 0.000714,1000,268554
-data-set/1000-numbers-44-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-44-ordered-descending.txt.csv, 0.001764,1000,499481
-data-set/1000-numbers-44-unordered.txt.csv, 0.000660,1000,248919
-data-set/1000-numbers-45-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-45-ordered-descending.txt.csv, 0.001868,1000,499482
-data-set/1000-numbers-45-unordered.txt.csv, 0.000889,1000,253728
-data-set/1000-numbers-46-ordered-ascending.txt.csv, 0.000007,1000,998
-data-set/1000-numbers-46-ordered-descending.txt.csv, 0.001357,1000,499476
-data-set/1000-numbers-46-unordered.txt.csv, 0.000653,1000,244012
-data-set/1000-numbers-47-ordered-ascending.txt.csv, 0.000010,1000,999
-data-set/1000-numbers-47-ordered-descending.txt.csv, 0.001411,1000,499479
-data-set/1000-numbers-47-unordered.txt.csv, 0.000740,1000,248119
-data-set/1000-numbers-48-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-48-ordered-descending.txt.csv, 0.001304,1000,499486
-data-set/1000-numbers-48-unordered.txt.csv, 0.000714,1000,259667
-data-set/1000-numbers-49-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-49-ordered-descending.txt.csv, 0.001572,1000,499487
-data-set/1000-numbers-49-unordered.txt.csv, 0.000687,1000,251676
-data-set/1000-numbers-5-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-5-ordered-descending.txt.csv, 0.001305,1000,499491
-data-set/1000-numbers-5-unordered.txt.csv, 0.000679,1000,252642
-data-set/1000-numbers-50-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-50-ordered-descending.txt.csv, 0.001477,1000,499484
-data-set/1000-numbers-50-unordered.txt.csv, 0.000645,1000,242315
-data-set/1000-numbers-51-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-51-ordered-descending.txt.csv, 0.002080,1000,499485
-data-set/1000-numbers-51-unordered.txt.csv, 0.001022,1000,250038
-data-set/1000-numbers-52-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-52-ordered-descending.txt.csv, 0.001472,1000,499484
-data-set/1000-numbers-52-unordered.txt.csv, 0.001011,1000,248041
-data-set/1000-numbers-53-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-53-ordered-descending.txt.csv, 0.001753,1000,499486
-data-set/1000-numbers-53-unordered.txt.csv, 0.001022,1000,252477
-data-set/1000-numbers-54-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-54-ordered-descending.txt.csv, 0.002256,1000,499488
-data-set/1000-numbers-54-unordered.txt.csv, 0.000721,1000,246635
-data-set/1000-numbers-55-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-55-ordered-descending.txt.csv, 0.001400,1000,499481
-data-set/1000-numbers-55-unordered.txt.csv, 0.000673,1000,251956
-data-set/1000-numbers-56-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-56-ordered-descending.txt.csv, 0.001572,1000,499488
-data-set/1000-numbers-56-unordered.txt.csv, 0.000721,1000,251684
-data-set/1000-numbers-57-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-57-ordered-descending.txt.csv, 0.001663,1000,499489
-data-set/1000-numbers-57-unordered.txt.csv, 0.000871,1000,258739
-data-set/1000-numbers-58-ordered-ascending.txt.csv, 0.000010,1000,998
-data-set/1000-numbers-58-ordered-descending.txt.csv, 0.001587,1000,499488
-data-set/1000-numbers-58-unordered.txt.csv, 0.001119,1000,259439
-data-set/1000-numbers-59-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-59-ordered-descending.txt.csv, 0.001462,1000,499483
-data-set/1000-numbers-59-unordered.txt.csv, 0.001006,1000,252216
-data-set/1000-numbers-6-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-6-ordered-descending.txt.csv, 0.001463,1000,499489
-data-set/1000-numbers-6-unordered.txt.csv, 0.000716,1000,252433
-data-set/1000-numbers-60-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-60-ordered-descending.txt.csv, 0.001451,1000,499484
-data-set/1000-numbers-60-unordered.txt.csv, 0.000976,1000,254742
-data-set/1000-numbers-61-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-61-ordered-descending.txt.csv, 0.001475,1000,499487
-data-set/1000-numbers-61-unordered.txt.csv, 0.000770,1000,243240
-data-set/1000-numbers-62-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-62-ordered-descending.txt.csv, 0.001338,1000,499483
-data-set/1000-numbers-62-unordered.txt.csv, 0.000732,1000,251704
-data-set/1000-numbers-63-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-63-ordered-descending.txt.csv, 0.002046,1000,499484
-data-set/1000-numbers-63-unordered.txt.csv, 0.000917,1000,248133
-data-set/1000-numbers-64-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-64-ordered-descending.txt.csv, 0.002093,1000,499481
-data-set/1000-numbers-64-unordered.txt.csv, 0.001017,1000,243590
-data-set/1000-numbers-65-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-65-ordered-descending.txt.csv, 0.001684,1000,499488
-data-set/1000-numbers-65-unordered.txt.csv, 0.000951,1000,239407
-data-set/1000-numbers-66-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-66-ordered-descending.txt.csv, 0.001600,1000,499487
-data-set/1000-numbers-66-unordered.txt.csv, 0.001038,1000,249863
-data-set/1000-numbers-67-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-67-ordered-descending.txt.csv, 0.002125,1000,499489
-data-set/1000-numbers-67-unordered.txt.csv, 0.000887,1000,247132
-data-set/1000-numbers-68-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-68-ordered-descending.txt.csv, 0.002119,1000,499483
-data-set/1000-numbers-68-unordered.txt.csv, 0.001018,1000,250266
-data-set/1000-numbers-69-ordered-ascending.txt.csv, 0.000010,1000,999
-data-set/1000-numbers-69-ordered-descending.txt.csv, 0.002256,1000,499488
-data-set/1000-numbers-69-unordered.txt.csv, 0.001075,1000,249898
-data-set/1000-numbers-7-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-7-ordered-descending.txt.csv, 0.001990,1000,499484
-data-set/1000-numbers-7-unordered.txt.csv, 0.000843,1000,245931
-data-set/1000-numbers-70-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-70-ordered-descending.txt.csv, 0.002263,1000,499482
-data-set/1000-numbers-70-unordered.txt.csv, 0.001029,1000,249612
-data-set/1000-numbers-71-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-71-ordered-descending.txt.csv, 0.001735,1000,499482
-data-set/1000-numbers-71-unordered.txt.csv, 0.000979,1000,250463
-data-set/1000-numbers-72-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-72-ordered-descending.txt.csv, 0.001466,1000,499481
-data-set/1000-numbers-72-unordered.txt.csv, 0.000719,1000,245497
-data-set/1000-numbers-73-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-73-ordered-descending.txt.csv, 0.001370,1000,499486
-data-set/1000-numbers-73-unordered.txt.csv, 0.001076,1000,248981
-data-set/1000-numbers-74-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-74-ordered-descending.txt.csv, 0.001359,1000,499482
-data-set/1000-numbers-74-unordered.txt.csv, 0.000705,1000,255802
-data-set/1000-numbers-75-ordered-ascending.txt.csv, 0.000015,1000,999
-data-set/1000-numbers-75-ordered-descending.txt.csv, 0.001744,1000,499491
-data-set/1000-numbers-75-unordered.txt.csv, 0.000775,1000,249618
-data-set/1000-numbers-76-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-76-ordered-descending.txt.csv, 0.002047,1000,499487
-data-set/1000-numbers-76-unordered.txt.csv, 0.000691,1000,255377
-data-set/1000-numbers-77-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-77-ordered-descending.txt.csv, 0.001303,1000,499481
-data-set/1000-numbers-77-unordered.txt.csv, 0.000673,1000,252452
-data-set/1000-numbers-78-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-78-ordered-descending.txt.csv, 0.001333,1000,499484
-data-set/1000-numbers-78-unordered.txt.csv, 0.000902,1000,252007
-data-set/1000-numbers-79-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-79-ordered-descending.txt.csv, 0.001266,1000,499489
-data-set/1000-numbers-79-unordered.txt.csv, 0.000690,1000,259117
-data-set/1000-numbers-8-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-8-ordered-descending.txt.csv, 0.001315,1000,499483
-data-set/1000-numbers-8-unordered.txt.csv, 0.000806,1000,248678
-data-set/1000-numbers-80-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-80-ordered-descending.txt.csv, 0.001312,1000,499485
-data-set/1000-numbers-80-unordered.txt.csv, 0.000652,1000,244068
-data-set/1000-numbers-81-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-81-ordered-descending.txt.csv, 0.001362,1000,499487
-data-set/1000-numbers-81-unordered.txt.csv, 0.001069,1000,245792
-data-set/1000-numbers-82-ordered-ascending.txt.csv, 0.000013,1000,999
-data-set/1000-numbers-82-ordered-descending.txt.csv, 0.002177,1000,499491
-data-set/1000-numbers-82-unordered.txt.csv, 0.000914,1000,248289
-data-set/1000-numbers-83-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-83-ordered-descending.txt.csv, 0.001580,1000,499486
-data-set/1000-numbers-83-unordered.txt.csv, 0.000677,1000,245449
-data-set/1000-numbers-84-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-84-ordered-descending.txt.csv, 0.002057,1000,499487
-data-set/1000-numbers-84-unordered.txt.csv, 0.000822,1000,252409
-data-set/1000-numbers-85-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-85-ordered-descending.txt.csv, 0.002125,1000,499483
-data-set/1000-numbers-85-unordered.txt.csv, 0.000860,1000,253022
-data-set/1000-numbers-86-ordered-ascending.txt.csv, 0.000006,1000,999
-data-set/1000-numbers-86-ordered-descending.txt.csv, 0.002340,1000,499480
-data-set/1000-numbers-86-unordered.txt.csv, 0.000972,1000,245649
-data-set/1000-numbers-87-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-87-ordered-descending.txt.csv, 0.001722,1000,499478
-data-set/1000-numbers-87-unordered.txt.csv, 0.000762,1000,254451
-data-set/1000-numbers-88-ordered-ascending.txt.csv, 0.000013,1000,999
-data-set/1000-numbers-88-ordered-descending.txt.csv, 0.002047,1000,499486
-data-set/1000-numbers-88-unordered.txt.csv, 0.000750,1000,251458
-data-set/1000-numbers-89-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-89-ordered-descending.txt.csv, 0.001622,1000,499485
-data-set/1000-numbers-89-unordered.txt.csv, 0.000982,1000,255770
-data-set/1000-numbers-9-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-9-ordered-descending.txt.csv, 0.001800,1000,499479
-data-set/1000-numbers-9-unordered.txt.csv, 0.001025,1000,249017
-data-set/1000-numbers-90-ordered-ascending.txt.csv, 0.000008,1000,998
-data-set/1000-numbers-90-ordered-descending.txt.csv, 0.001548,1000,499489
-data-set/1000-numbers-90-unordered.txt.csv, 0.000645,1000,250482
-data-set/1000-numbers-91-ordered-ascending.txt.csv, 0.000007,1000,999
-data-set/1000-numbers-91-ordered-descending.txt.csv, 0.002143,1000,499487
-data-set/1000-numbers-91-unordered.txt.csv, 0.000982,1000,249389
-data-set/1000-numbers-92-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-92-ordered-descending.txt.csv, 0.001693,1000,499481
-data-set/1000-numbers-92-unordered.txt.csv, 0.000717,1000,253237
-data-set/1000-numbers-93-ordered-ascending.txt.csv, 0.000014,1000,999
-data-set/1000-numbers-93-ordered-descending.txt.csv, 0.001332,1000,499493
-data-set/1000-numbers-93-unordered.txt.csv, 0.000789,1000,250813
-data-set/1000-numbers-94-ordered-ascending.txt.csv, 0.000008,1000,999
-data-set/1000-numbers-94-ordered-descending.txt.csv, 0.001721,1000,499491
-data-set/1000-numbers-94-unordered.txt.csv, 0.000808,1000,253179
-data-set/1000-numbers-95-ordered-ascending.txt.csv, 0.000011,1000,999
-data-set/1000-numbers-95-ordered-descending.txt.csv, 0.001607,1000,499486
-data-set/1000-numbers-95-unordered.txt.csv, 0.001194,1000,249057
-data-set/1000-numbers-96-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-96-ordered-descending.txt.csv, 0.002028,1000,499490
-data-set/1000-numbers-96-unordered.txt.csv, 0.001038,1000,249040
-data-set/1000-numbers-97-ordered-ascending.txt.csv, 0.000012,1000,999
-data-set/1000-numbers-97-ordered-descending.txt.csv, 0.002100,1000,499491
-data-set/1000-numbers-97-unordered.txt.csv, 0.001032,1000,246780
-data-set/1000-numbers-98-ordered-ascending.txt.csv, 0.000013,1000,999
-data-set/1000-numbers-98-ordered-descending.txt.csv, 0.002014,1000,499486
-data-set/1000-numbers-98-unordered.txt.csv, 0.001023,1000,240436
-data-set/1000-numbers-99-ordered-ascending.txt.csv, 0.000010,1000,999
-data-set/1000-numbers-99-ordered-descending.txt.csv, 0.002085,1000,499483
-data-set/1000-numbers-99-unordered.txt.csv, 0.001025,1000,246118
-data-set/10000-numbers-0-ordered-ascending.txt.csv, 0.000094,10000,9999
-data-set/10000-numbers-0-ordered-descending.txt.csv, 0.173077,10000,49993433
-data-set/10000-numbers-0-unordered.txt.csv, 0.098794,10000,24994472
-data-set/10000-numbers-1-ordered-ascending.txt.csv, 0.000093,10000,9999
-data-set/10000-numbers-1-ordered-descending.txt.csv, 0.169667,10000,49993444
-data-set/10000-numbers-1-unordered.txt.csv, 0.091236,10000,25009384
-data-set/10000-numbers-10-ordered-ascending.txt.csv, 0.000072,10000,9998
-data-set/10000-numbers-10-ordered-descending.txt.csv, 0.226936,10000,49993481
-data-set/10000-numbers-10-unordered.txt.csv, 0.107697,10000,24893117
-data-set/10000-numbers-11-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-11-ordered-descending.txt.csv, 0.218882,10000,49993452
-data-set/10000-numbers-11-unordered.txt.csv, 0.114734,10000,24976317
-data-set/10000-numbers-12-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-12-ordered-descending.txt.csv, 0.193362,10000,49993545
-data-set/10000-numbers-12-unordered.txt.csv, 0.096445,10000,25344129
-data-set/10000-numbers-13-ordered-ascending.txt.csv, 0.000078,10000,9999
-data-set/10000-numbers-13-ordered-descending.txt.csv, 0.204954,10000,49993506
-data-set/10000-numbers-13-unordered.txt.csv, 0.096412,10000,25178423
-data-set/10000-numbers-14-ordered-ascending.txt.csv, 0.000079,10000,9998
-data-set/10000-numbers-14-ordered-descending.txt.csv, 0.229812,10000,49993463
-data-set/10000-numbers-14-unordered.txt.csv, 0.111890,10000,24917869
-data-set/10000-numbers-15-ordered-ascending.txt.csv, 0.000078,10000,9999
-data-set/10000-numbers-15-ordered-descending.txt.csv, 0.209353,10000,49993523
-data-set/10000-numbers-15-unordered.txt.csv, 0.077605,10000,25019998
-data-set/10000-numbers-16-ordered-ascending.txt.csv, 0.000062,10000,9998
-data-set/10000-numbers-16-ordered-descending.txt.csv, 0.173988,10000,49993476
-data-set/10000-numbers-16-unordered.txt.csv, 0.073522,10000,24797781
-data-set/10000-numbers-17-ordered-ascending.txt.csv, 0.000063,10000,9999
-data-set/10000-numbers-17-ordered-descending.txt.csv, 0.177570,10000,49993398
-data-set/10000-numbers-17-unordered.txt.csv, 0.093409,10000,25227347
-data-set/10000-numbers-18-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-18-ordered-descending.txt.csv, 0.178474,10000,49993601
-data-set/10000-numbers-18-unordered.txt.csv, 0.091895,10000,24813134
-data-set/10000-numbers-19-ordered-ascending.txt.csv, 0.000069,10000,9999
-data-set/10000-numbers-19-ordered-descending.txt.csv, 0.168821,10000,49993544
-data-set/10000-numbers-19-unordered.txt.csv, 0.090046,10000,24967395
-data-set/10000-numbers-2-ordered-ascending.txt.csv, 0.000062,10000,9999
-data-set/10000-numbers-2-ordered-descending.txt.csv, 0.159354,10000,49993464
-data-set/10000-numbers-2-unordered.txt.csv, 0.086388,10000,25041332
-data-set/10000-numbers-20-ordered-ascending.txt.csv, 0.000104,10000,9999
-data-set/10000-numbers-20-ordered-descending.txt.csv, 0.202424,10000,49993440
-data-set/10000-numbers-20-unordered.txt.csv, 0.092514,10000,24890619
-data-set/10000-numbers-21-ordered-ascending.txt.csv, 0.000096,10000,9999
-data-set/10000-numbers-21-ordered-descending.txt.csv, 0.168038,10000,49993431
-data-set/10000-numbers-21-unordered.txt.csv, 0.082622,10000,25037023
-data-set/10000-numbers-22-ordered-ascending.txt.csv, 0.000063,10000,9999
-data-set/10000-numbers-22-ordered-descending.txt.csv, 0.160513,10000,49993478
-data-set/10000-numbers-22-unordered.txt.csv, 0.087191,10000,25473911
-data-set/10000-numbers-23-ordered-ascending.txt.csv, 0.000101,10000,9999
-data-set/10000-numbers-23-ordered-descending.txt.csv, 0.175025,10000,49993499
-data-set/10000-numbers-23-unordered.txt.csv, 0.091724,10000,24959698
-data-set/10000-numbers-24-ordered-ascending.txt.csv, 0.000066,10000,9997
-data-set/10000-numbers-24-ordered-descending.txt.csv, 0.157893,10000,49993482
-data-set/10000-numbers-24-unordered.txt.csv, 0.080402,10000,25222188
-data-set/10000-numbers-25-ordered-ascending.txt.csv, 0.000081,10000,9997
-data-set/10000-numbers-25-ordered-descending.txt.csv, 0.153422,10000,49993444
-data-set/10000-numbers-25-unordered.txt.csv, 0.081441,10000,24837016
-data-set/10000-numbers-26-ordered-ascending.txt.csv, 0.000062,10000,9999
-data-set/10000-numbers-26-ordered-descending.txt.csv, 0.155883,10000,49993497
-data-set/10000-numbers-26-unordered.txt.csv, 0.086422,10000,25102970
-data-set/10000-numbers-27-ordered-ascending.txt.csv, 0.000106,10000,9998
-data-set/10000-numbers-27-ordered-descending.txt.csv, 0.196049,10000,49993412
-data-set/10000-numbers-27-unordered.txt.csv, 0.091223,10000,24922544
-data-set/10000-numbers-28-ordered-ascending.txt.csv, 0.000105,10000,9998
-data-set/10000-numbers-28-ordered-descending.txt.csv, 0.186724,10000,49993464
-data-set/10000-numbers-28-unordered.txt.csv, 0.085535,10000,25319477
-data-set/10000-numbers-29-ordered-ascending.txt.csv, 0.000072,10000,9998
-data-set/10000-numbers-29-ordered-descending.txt.csv, 0.162748,10000,49993509
-data-set/10000-numbers-29-unordered.txt.csv, 0.079509,10000,25107908
-data-set/10000-numbers-3-ordered-ascending.txt.csv, 0.000066,10000,9999
-data-set/10000-numbers-3-ordered-descending.txt.csv, 0.150470,10000,49993466
-data-set/10000-numbers-3-unordered.txt.csv, 0.082191,10000,25211956
-data-set/10000-numbers-30-ordered-ascending.txt.csv, 0.000069,10000,9999
-data-set/10000-numbers-30-ordered-descending.txt.csv, 0.165738,10000,49993450
-data-set/10000-numbers-30-unordered.txt.csv, 0.085915,10000,25138281
-data-set/10000-numbers-31-ordered-ascending.txt.csv, 0.000093,10000,9998
-data-set/10000-numbers-31-ordered-descending.txt.csv, 0.179161,10000,49993474
-data-set/10000-numbers-31-unordered.txt.csv, 0.105027,10000,25298224
-data-set/10000-numbers-32-ordered-ascending.txt.csv, 0.000097,10000,9999
-data-set/10000-numbers-32-ordered-descending.txt.csv, 0.191667,10000,49993515
-data-set/10000-numbers-32-unordered.txt.csv, 0.082287,10000,25129022
-data-set/10000-numbers-33-ordered-ascending.txt.csv, 0.000087,10000,9998
-data-set/10000-numbers-33-ordered-descending.txt.csv, 0.185346,10000,49993456
-data-set/10000-numbers-33-unordered.txt.csv, 0.109719,10000,24900133
-data-set/10000-numbers-34-ordered-ascending.txt.csv, 0.000061,10000,9999
-data-set/10000-numbers-34-ordered-descending.txt.csv, 0.172179,10000,49993443
-data-set/10000-numbers-34-unordered.txt.csv, 0.090179,10000,24905683
-data-set/10000-numbers-35-ordered-ascending.txt.csv, 0.000067,10000,9999
-data-set/10000-numbers-35-ordered-descending.txt.csv, 0.236057,10000,49993517
-data-set/10000-numbers-35-unordered.txt.csv, 0.135710,10000,25085854
-data-set/10000-numbers-36-ordered-ascending.txt.csv, 0.000126,10000,9999
-data-set/10000-numbers-36-ordered-descending.txt.csv, 0.256945,10000,49993527
-data-set/10000-numbers-36-unordered.txt.csv, 0.110212,10000,24932187
-data-set/10000-numbers-37-ordered-ascending.txt.csv, 0.000108,10000,9999
-data-set/10000-numbers-37-ordered-descending.txt.csv, 0.240185,10000,49993507
-data-set/10000-numbers-37-unordered.txt.csv, 0.136320,10000,24955600
-data-set/10000-numbers-38-ordered-ascending.txt.csv, 0.000125,10000,9999
-data-set/10000-numbers-38-ordered-descending.txt.csv, 0.251781,10000,49993498
-data-set/10000-numbers-38-unordered.txt.csv, 0.108654,10000,25308180
-data-set/10000-numbers-39-ordered-ascending.txt.csv, 0.000080,10000,9999
-data-set/10000-numbers-39-ordered-descending.txt.csv, 0.202630,10000,49993490
-data-set/10000-numbers-39-unordered.txt.csv, 0.107129,10000,25036479
-data-set/10000-numbers-4-ordered-ascending.txt.csv, 0.000078,10000,9999
-data-set/10000-numbers-4-ordered-descending.txt.csv, 0.240251,10000,49993461
-data-set/10000-numbers-4-unordered.txt.csv, 0.109193,10000,24888694
-data-set/10000-numbers-40-ordered-ascending.txt.csv, 0.000089,10000,9999
-data-set/10000-numbers-40-ordered-descending.txt.csv, 0.230548,10000,49993402
-data-set/10000-numbers-40-unordered.txt.csv, 0.128209,10000,25091198
-data-set/10000-numbers-41-ordered-ascending.txt.csv, 0.000080,10000,9997
-data-set/10000-numbers-41-ordered-descending.txt.csv, 0.245712,10000,49993505
-data-set/10000-numbers-41-unordered.txt.csv, 0.134379,10000,25088338
-data-set/10000-numbers-42-ordered-ascending.txt.csv, 0.000114,10000,9999
-data-set/10000-numbers-42-ordered-descending.txt.csv, 0.246954,10000,49993472
-data-set/10000-numbers-42-unordered.txt.csv, 0.145213,10000,24979780
-data-set/10000-numbers-43-ordered-ascending.txt.csv, 0.000184,10000,9999
-data-set/10000-numbers-43-ordered-descending.txt.csv, 0.322454,10000,49993526
-data-set/10000-numbers-43-unordered.txt.csv, 0.093531,10000,25028953
-data-set/10000-numbers-44-ordered-ascending.txt.csv, 0.000095,10000,9999
-data-set/10000-numbers-44-ordered-descending.txt.csv, 0.207779,10000,49993500
-data-set/10000-numbers-44-unordered.txt.csv, 0.103224,10000,25180142
-data-set/10000-numbers-45-ordered-ascending.txt.csv, 0.000100,10000,9999
-data-set/10000-numbers-45-ordered-descending.txt.csv, 0.180276,10000,49993505
-data-set/10000-numbers-45-unordered.txt.csv, 0.097787,10000,25161980
-data-set/10000-numbers-46-ordered-ascending.txt.csv, 0.000063,10000,9999
-data-set/10000-numbers-46-ordered-descending.txt.csv, 0.197276,10000,49993440
-data-set/10000-numbers-46-unordered.txt.csv, 0.084703,10000,24985481
-data-set/10000-numbers-47-ordered-ascending.txt.csv, 0.000081,10000,9999
-data-set/10000-numbers-47-ordered-descending.txt.csv, 0.177685,10000,49993405
-data-set/10000-numbers-47-unordered.txt.csv, 0.082036,10000,24669813
-data-set/10000-numbers-48-ordered-ascending.txt.csv, 0.000076,10000,9998
-data-set/10000-numbers-48-ordered-descending.txt.csv, 0.159144,10000,49993467
-data-set/10000-numbers-48-unordered.txt.csv, 0.079746,10000,24848278
-data-set/10000-numbers-49-ordered-ascending.txt.csv, 0.000061,10000,9998
-data-set/10000-numbers-49-ordered-descending.txt.csv, 0.186620,10000,49993457
-data-set/10000-numbers-49-unordered.txt.csv, 0.089091,10000,24962854
-data-set/10000-numbers-5-ordered-ascending.txt.csv, 0.000062,10000,9999
-data-set/10000-numbers-5-ordered-descending.txt.csv, 0.169544,10000,49993443
-data-set/10000-numbers-5-unordered.txt.csv, 0.090531,10000,24923315
-data-set/10000-numbers-50-ordered-ascending.txt.csv, 0.000070,10000,9999
-data-set/10000-numbers-50-ordered-descending.txt.csv, 0.187217,10000,49993450
-data-set/10000-numbers-50-unordered.txt.csv, 0.095843,10000,25198160
-data-set/10000-numbers-51-ordered-ascending.txt.csv, 0.000078,10000,9999
-data-set/10000-numbers-51-ordered-descending.txt.csv, 0.194170,10000,49993526
-data-set/10000-numbers-51-unordered.txt.csv, 0.094276,10000,25074647
-data-set/10000-numbers-52-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-52-ordered-descending.txt.csv, 0.187441,10000,49993416
-data-set/10000-numbers-52-unordered.txt.csv, 0.109775,10000,25122179
-data-set/10000-numbers-53-ordered-ascending.txt.csv, 0.000083,10000,9999
-data-set/10000-numbers-53-ordered-descending.txt.csv, 0.218185,10000,49993487
-data-set/10000-numbers-53-unordered.txt.csv, 0.110725,10000,24994416
-data-set/10000-numbers-54-ordered-ascending.txt.csv, 0.000117,10000,9999
-data-set/10000-numbers-54-ordered-descending.txt.csv, 0.209470,10000,49993497
-data-set/10000-numbers-54-unordered.txt.csv, 0.105436,10000,25035274
-data-set/10000-numbers-55-ordered-ascending.txt.csv, 0.000080,10000,9999
-data-set/10000-numbers-55-ordered-descending.txt.csv, 0.202814,10000,49993549
-data-set/10000-numbers-55-unordered.txt.csv, 0.109628,10000,25126027
-data-set/10000-numbers-56-ordered-ascending.txt.csv, 0.000101,10000,9999
-data-set/10000-numbers-56-ordered-descending.txt.csv, 0.203339,10000,49993415
-data-set/10000-numbers-56-unordered.txt.csv, 0.108083,10000,25031172
-data-set/10000-numbers-57-ordered-ascending.txt.csv, 0.000117,10000,9999
-data-set/10000-numbers-57-ordered-descending.txt.csv, 0.220976,10000,49993482
-data-set/10000-numbers-57-unordered.txt.csv, 0.116048,10000,24702834
-data-set/10000-numbers-58-ordered-ascending.txt.csv, 0.000082,10000,9999
-data-set/10000-numbers-58-ordered-descending.txt.csv, 0.253644,10000,49993515
-data-set/10000-numbers-58-unordered.txt.csv, 0.111850,10000,25235199
-data-set/10000-numbers-59-ordered-ascending.txt.csv, 0.000116,10000,9999
-data-set/10000-numbers-59-ordered-descending.txt.csv, 0.249172,10000,49993431
-data-set/10000-numbers-59-unordered.txt.csv, 0.109142,10000,25098587
-data-set/10000-numbers-6-ordered-ascending.txt.csv, 0.000096,10000,9997
-data-set/10000-numbers-6-ordered-descending.txt.csv, 0.232666,10000,49993545
-data-set/10000-numbers-6-unordered.txt.csv, 0.114094,10000,24905070
-data-set/10000-numbers-60-ordered-ascending.txt.csv, 0.000077,10000,9999
-data-set/10000-numbers-60-ordered-descending.txt.csv, 0.219202,10000,49993462
-data-set/10000-numbers-60-unordered.txt.csv, 0.107473,10000,24938056
-data-set/10000-numbers-61-ordered-ascending.txt.csv, 0.000119,10000,9999
-data-set/10000-numbers-61-ordered-descending.txt.csv, 0.227028,10000,49993490
-data-set/10000-numbers-61-unordered.txt.csv, 0.129541,10000,24939317
-data-set/10000-numbers-62-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-62-ordered-descending.txt.csv, 0.232324,10000,49993482
-data-set/10000-numbers-62-unordered.txt.csv, 0.122126,10000,24918654
-data-set/10000-numbers-63-ordered-ascending.txt.csv, 0.000130,10000,9999
-data-set/10000-numbers-63-ordered-descending.txt.csv, 0.249280,10000,49993479
-data-set/10000-numbers-63-unordered.txt.csv, 0.145595,10000,24823576
-data-set/10000-numbers-64-ordered-ascending.txt.csv, 0.000156,10000,9999
-data-set/10000-numbers-64-ordered-descending.txt.csv, 0.318974,10000,49993432
-data-set/10000-numbers-64-unordered.txt.csv, 0.127280,10000,24986496
-data-set/10000-numbers-65-ordered-ascending.txt.csv, 0.000145,10000,9998
-data-set/10000-numbers-65-ordered-descending.txt.csv, 0.221863,10000,49993543
-data-set/10000-numbers-65-unordered.txt.csv, 0.116846,10000,25216578
-data-set/10000-numbers-66-ordered-ascending.txt.csv, 0.000096,10000,9999
-data-set/10000-numbers-66-ordered-descending.txt.csv, 0.185350,10000,49993541
-data-set/10000-numbers-66-unordered.txt.csv, 0.076349,10000,25279714
-data-set/10000-numbers-67-ordered-ascending.txt.csv, 0.000070,10000,9999
-data-set/10000-numbers-67-ordered-descending.txt.csv, 0.171592,10000,49993491
-data-set/10000-numbers-67-unordered.txt.csv, 0.089044,10000,25218410
-data-set/10000-numbers-68-ordered-ascending.txt.csv, 0.000087,10000,9998
-data-set/10000-numbers-68-ordered-descending.txt.csv, 0.173709,10000,49993543
-data-set/10000-numbers-68-unordered.txt.csv, 0.094556,10000,24964192
-data-set/10000-numbers-69-ordered-ascending.txt.csv, 0.000095,10000,9998
-data-set/10000-numbers-69-ordered-descending.txt.csv, 0.179892,10000,49993447
-data-set/10000-numbers-69-unordered.txt.csv, 0.089073,10000,25069025
-data-set/10000-numbers-7-ordered-ascending.txt.csv, 0.000062,10000,9998
-data-set/10000-numbers-7-ordered-descending.txt.csv, 0.188892,10000,49993456
-data-set/10000-numbers-7-unordered.txt.csv, 0.083113,10000,25068727
-data-set/10000-numbers-70-ordered-ascending.txt.csv, 0.000064,10000,9999
-data-set/10000-numbers-70-ordered-descending.txt.csv, 0.150203,10000,49993480
-data-set/10000-numbers-70-unordered.txt.csv, 0.093806,10000,25113780
-data-set/10000-numbers-71-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-71-ordered-descending.txt.csv, 0.204793,10000,49993503
-data-set/10000-numbers-71-unordered.txt.csv, 0.095367,10000,24936155
-data-set/10000-numbers-72-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-72-ordered-descending.txt.csv, 0.182020,10000,49993475
-data-set/10000-numbers-72-unordered.txt.csv, 0.097608,10000,25054340
-data-set/10000-numbers-73-ordered-ascending.txt.csv, 0.000134,10000,9999
-data-set/10000-numbers-73-ordered-descending.txt.csv, 0.181661,10000,49993524
-data-set/10000-numbers-73-unordered.txt.csv, 0.084330,10000,25189487
-data-set/10000-numbers-74-ordered-ascending.txt.csv, 0.000064,10000,9998
-data-set/10000-numbers-74-ordered-descending.txt.csv, 0.146458,10000,49993477
-data-set/10000-numbers-74-unordered.txt.csv, 0.078449,10000,25158737
-data-set/10000-numbers-75-ordered-ascending.txt.csv, 0.000068,10000,9999
-data-set/10000-numbers-75-ordered-descending.txt.csv, 0.139892,10000,49993494
-data-set/10000-numbers-75-unordered.txt.csv, 0.068161,10000,24764232
-data-set/10000-numbers-76-ordered-ascending.txt.csv, 0.000059,10000,9998
-data-set/10000-numbers-76-ordered-descending.txt.csv, 0.148730,10000,49993502
-data-set/10000-numbers-76-unordered.txt.csv, 0.107417,10000,25138660
-data-set/10000-numbers-77-ordered-ascending.txt.csv, 0.000063,10000,9998
-data-set/10000-numbers-77-ordered-descending.txt.csv, 0.171842,10000,49993542
-data-set/10000-numbers-77-unordered.txt.csv, 0.093670,10000,25087128
-data-set/10000-numbers-78-ordered-ascending.txt.csv, 0.000062,10000,9998
-data-set/10000-numbers-78-ordered-descending.txt.csv, 0.195900,10000,49993454
-data-set/10000-numbers-78-unordered.txt.csv, 0.099781,10000,24858618
-data-set/10000-numbers-79-ordered-ascending.txt.csv, 0.000072,10000,9998
-data-set/10000-numbers-79-ordered-descending.txt.csv, 0.179240,10000,49993506
-data-set/10000-numbers-79-unordered.txt.csv, 0.092379,10000,24996069
-data-set/10000-numbers-8-ordered-ascending.txt.csv, 0.000064,10000,9998
-data-set/10000-numbers-8-ordered-descending.txt.csv, 0.171626,10000,49993482
-data-set/10000-numbers-8-unordered.txt.csv, 0.116065,10000,25145756
-data-set/10000-numbers-80-ordered-ascending.txt.csv, 0.000063,10000,9999
-data-set/10000-numbers-80-ordered-descending.txt.csv, 0.208707,10000,49993549
-data-set/10000-numbers-80-unordered.txt.csv, 0.083611,10000,25199460
-data-set/10000-numbers-81-ordered-ascending.txt.csv, 0.000062,10000,9999
-data-set/10000-numbers-81-ordered-descending.txt.csv, 0.190848,10000,49993532
-data-set/10000-numbers-81-unordered.txt.csv, 0.115422,10000,25077553
-data-set/10000-numbers-82-ordered-ascending.txt.csv, 0.000078,10000,9999
-data-set/10000-numbers-82-ordered-descending.txt.csv, 0.159770,10000,49993523
-data-set/10000-numbers-82-unordered.txt.csv, 0.080001,10000,25239283
-data-set/10000-numbers-83-ordered-ascending.txt.csv, 0.000063,10000,9998
-data-set/10000-numbers-83-ordered-descending.txt.csv, 0.194066,10000,49993434
-data-set/10000-numbers-83-unordered.txt.csv, 0.088458,10000,24925508
-data-set/10000-numbers-84-ordered-ascending.txt.csv, 0.000091,10000,9999
-data-set/10000-numbers-84-ordered-descending.txt.csv, 0.185356,10000,49993423
-data-set/10000-numbers-84-unordered.txt.csv, 0.070475,10000,25123363
-data-set/10000-numbers-85-ordered-ascending.txt.csv, 0.000105,10000,9997
-data-set/10000-numbers-85-ordered-descending.txt.csv, 0.203872,10000,49993510
-data-set/10000-numbers-85-unordered.txt.csv, 0.073488,10000,24727870
-data-set/10000-numbers-86-ordered-ascending.txt.csv, 0.000080,10000,9999
-data-set/10000-numbers-86-ordered-descending.txt.csv, 0.158439,10000,49993472
-data-set/10000-numbers-86-unordered.txt.csv, 0.080858,10000,24947200
-data-set/10000-numbers-87-ordered-ascending.txt.csv, 0.000121,10000,9996
-data-set/10000-numbers-87-ordered-descending.txt.csv, 0.176323,10000,49993455
-data-set/10000-numbers-87-unordered.txt.csv, 0.069287,10000,24883242
-data-set/10000-numbers-88-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-88-ordered-descending.txt.csv, 0.178843,10000,49993434
-data-set/10000-numbers-88-unordered.txt.csv, 0.136155,10000,24852485
-data-set/10000-numbers-89-ordered-ascending.txt.csv, 0.000121,10000,9999
-data-set/10000-numbers-89-ordered-descending.txt.csv, 0.244603,10000,49993571
-data-set/10000-numbers-89-unordered.txt.csv, 0.122951,10000,25052915
-data-set/10000-numbers-9-ordered-ascending.txt.csv, 0.000116,10000,9998
-data-set/10000-numbers-9-ordered-descending.txt.csv, 0.198220,10000,49993434
-data-set/10000-numbers-9-unordered.txt.csv, 0.083645,10000,25012874
-data-set/10000-numbers-90-ordered-ascending.txt.csv, 0.000073,10000,9999
-data-set/10000-numbers-90-ordered-descending.txt.csv, 0.186069,10000,49993502
-data-set/10000-numbers-90-unordered.txt.csv, 0.086669,10000,25049260
-data-set/10000-numbers-91-ordered-ascending.txt.csv, 0.000071,10000,9999
-data-set/10000-numbers-91-ordered-descending.txt.csv, 0.168236,10000,49993506
-data-set/10000-numbers-91-unordered.txt.csv, 0.113088,10000,25135884
-data-set/10000-numbers-92-ordered-ascending.txt.csv, 0.000098,10000,9999
-data-set/10000-numbers-92-ordered-descending.txt.csv, 0.245133,10000,49993464
-data-set/10000-numbers-92-unordered.txt.csv, 0.098911,10000,24854011
-data-set/10000-numbers-93-ordered-ascending.txt.csv, 0.000127,10000,9999
-data-set/10000-numbers-93-ordered-descending.txt.csv, 0.319781,10000,49993463
-data-set/10000-numbers-93-unordered.txt.csv, 0.084303,10000,25270632
-data-set/10000-numbers-94-ordered-ascending.txt.csv, 0.000071,10000,9999
-data-set/10000-numbers-94-ordered-descending.txt.csv, 0.164336,10000,49993539
-data-set/10000-numbers-94-unordered.txt.csv, 0.070080,10000,25039533
-data-set/10000-numbers-95-ordered-ascending.txt.csv, 0.000058,10000,9998
-data-set/10000-numbers-95-ordered-descending.txt.csv, 0.146993,10000,49993472
-data-set/10000-numbers-95-unordered.txt.csv, 0.095026,10000,24949071
-data-set/10000-numbers-96-ordered-ascending.txt.csv, 0.000119,10000,9998
-data-set/10000-numbers-96-ordered-descending.txt.csv, 0.199178,10000,49993456
-data-set/10000-numbers-96-unordered.txt.csv, 0.080425,10000,24997749
-data-set/10000-numbers-97-ordered-ascending.txt.csv, 0.000068,10000,9999
-data-set/10000-numbers-97-ordered-descending.txt.csv, 0.159665,10000,49993457
-data-set/10000-numbers-97-unordered.txt.csv, 0.095700,10000,24847473
-data-set/10000-numbers-98-ordered-ascending.txt.csv, 0.000079,10000,9999
-data-set/10000-numbers-98-ordered-descending.txt.csv, 0.142657,10000,49993506
-data-set/10000-numbers-98-unordered.txt.csv, 0.078456,10000,24991816
-data-set/10000-numbers-99-ordered-ascending.txt.csv, 0.000067,10000,9999
-data-set/10000-numbers-99-ordered-descending.txt.csv, 0.171512,10000,49993479
-data-set/10000-numbers-99-unordered.txt.csv, 0.118780,10000,25017054
+data-set/10000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000122,19999,19997
+data-set/10000-numbers-0-ordered-descending.txt.csv, descending, 0.581811,19999,199963930
+data-set/10000-numbers-0-unordered.txt.csv, unordered, 0.278461,19999,100169463
+data-set/10000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000120,19999,19998
+data-set/10000-numbers-1-ordered-descending.txt.csv, descending, 0.586681,19999,199963941
+data-set/10000-numbers-1-unordered.txt.csv, unordered, 0.291854,19999,99540563
+data-set/10000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000063,10000,9998
+data-set/10000-numbers-10-ordered-descending.txt.csv, descending, 0.147916,10000,49993506
+data-set/10000-numbers-10-unordered.txt.csv, unordered, 0.077362,10000,24890486
+data-set/10000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000077,10000,9999
+data-set/10000-numbers-11-ordered-descending.txt.csv, descending, 0.190976,10000,49993528
+data-set/10000-numbers-11-unordered.txt.csv, unordered, 0.067931,10000,24949074
+data-set/10000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000074,10000,9999
+data-set/10000-numbers-12-ordered-descending.txt.csv, descending, 0.141037,10000,49993472
+data-set/10000-numbers-12-unordered.txt.csv, unordered, 0.084656,10000,25644999
+data-set/10000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000141,10000,9997
+data-set/10000-numbers-13-ordered-descending.txt.csv, descending, 0.178985,10000,49993503
+data-set/10000-numbers-13-unordered.txt.csv, unordered, 0.072078,10000,25123526
+data-set/10000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000059,10000,9998
+data-set/10000-numbers-14-ordered-descending.txt.csv, descending, 0.146492,10000,49993484
+data-set/10000-numbers-14-unordered.txt.csv, unordered, 0.081845,10000,24815698
+data-set/10000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000078,10000,9999
+data-set/10000-numbers-15-ordered-descending.txt.csv, descending, 0.195137,10000,49993466
+data-set/10000-numbers-15-unordered.txt.csv, unordered, 0.067348,10000,24760244
+data-set/10000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000062,10000,9999
+data-set/10000-numbers-16-ordered-descending.txt.csv, descending, 0.174148,10000,49993494
+data-set/10000-numbers-16-unordered.txt.csv, unordered, 0.122551,10000,25160597
+data-set/10000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000157,10000,9999
+data-set/10000-numbers-17-ordered-descending.txt.csv, descending, 0.144872,10000,49993525
+data-set/10000-numbers-17-unordered.txt.csv, unordered, 0.070887,10000,25300311
+data-set/10000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000063,10000,9999
+data-set/10000-numbers-18-ordered-descending.txt.csv, descending, 0.196466,10000,49993516
+data-set/10000-numbers-18-unordered.txt.csv, unordered, 0.087711,10000,24935292
+data-set/10000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000080,10000,9999
+data-set/10000-numbers-19-ordered-descending.txt.csv, descending, 0.156655,10000,49993463
+data-set/10000-numbers-19-unordered.txt.csv, unordered, 0.086491,10000,24995983
+data-set/10000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000157,19999,19998
+data-set/10000-numbers-2-ordered-descending.txt.csv, descending, 0.642743,19999,199963983
+data-set/10000-numbers-2-unordered.txt.csv, unordered, 0.286680,19999,100445981
+data-set/10000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000068,10000,9999
+data-set/10000-numbers-20-ordered-descending.txt.csv, descending, 0.181776,10000,49993457
+data-set/10000-numbers-20-unordered.txt.csv, unordered, 0.078567,10000,25250751
+data-set/10000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000074,10000,9998
+data-set/10000-numbers-21-ordered-descending.txt.csv, descending, 0.146542,10000,49993466
+data-set/10000-numbers-21-unordered.txt.csv, unordered, 0.102865,10000,25271578
+data-set/10000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000075,10000,9999
+data-set/10000-numbers-22-ordered-descending.txt.csv, descending, 0.189942,10000,49993539
+data-set/10000-numbers-22-unordered.txt.csv, unordered, 0.069792,10000,24904904
+data-set/10000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000064,10000,9999
+data-set/10000-numbers-23-ordered-descending.txt.csv, descending, 0.147441,10000,49993516
+data-set/10000-numbers-23-unordered.txt.csv, unordered, 0.096879,10000,25023768
+data-set/10000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000092,10000,9999
+data-set/10000-numbers-24-ordered-descending.txt.csv, descending, 0.174331,10000,49993426
+data-set/10000-numbers-24-unordered.txt.csv, unordered, 0.079385,10000,25029321
+data-set/10000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000062,10000,9999
+data-set/10000-numbers-25-ordered-descending.txt.csv, descending, 0.169897,10000,49993500
+data-set/10000-numbers-25-unordered.txt.csv, unordered, 0.095475,10000,24706694
+data-set/10000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000078,10000,9998
+data-set/10000-numbers-26-ordered-descending.txt.csv, descending, 0.155243,10000,49993437
+data-set/10000-numbers-26-unordered.txt.csv, unordered, 0.066161,10000,24850591
+data-set/10000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000090,10000,9998
+data-set/10000-numbers-27-ordered-descending.txt.csv, descending, 0.189806,10000,49993511
+data-set/10000-numbers-27-unordered.txt.csv, unordered, 0.091280,10000,25107603
+data-set/10000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000148,10000,9999
+data-set/10000-numbers-28-ordered-descending.txt.csv, descending, 0.151540,10000,49993439
+data-set/10000-numbers-28-unordered.txt.csv, unordered, 0.090241,10000,24833105
+data-set/10000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000133,10000,9999
+data-set/10000-numbers-29-ordered-descending.txt.csv, descending, 0.195841,10000,49993426
+data-set/10000-numbers-29-unordered.txt.csv, unordered, 0.073775,10000,25171508
+data-set/10000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000116,19999,19998
+data-set/10000-numbers-3-ordered-descending.txt.csv, descending, 0.665933,19999,199963984
+data-set/10000-numbers-3-unordered.txt.csv, unordered, 0.277955,19999,99521662
+data-set/10000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000133,19999,19997
+data-set/10000-numbers-4-ordered-descending.txt.csv, descending, 0.646936,19999,199963841
+data-set/10000-numbers-4-unordered.txt.csv, unordered, 0.329727,19999,100023469
+data-set/10000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000081,13500,13499
+data-set/10000-numbers-5-ordered-descending.txt.csv, descending, 0.283238,13500,91115460
+data-set/10000-numbers-5-unordered.txt.csv, unordered, 0.127025,13500,45549328
+data-set/10000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000062,10000,9999
+data-set/10000-numbers-6-ordered-descending.txt.csv, descending, 0.137150,10000,49993549
+data-set/10000-numbers-6-unordered.txt.csv, unordered, 0.076561,10000,24789779
+data-set/10000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000075,10000,9999
+data-set/10000-numbers-7-ordered-descending.txt.csv, descending, 0.194249,10000,49993494
+data-set/10000-numbers-7-unordered.txt.csv, unordered, 0.082771,10000,25120819
+data-set/10000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000069,10000,9999
+data-set/10000-numbers-8-ordered-descending.txt.csv, descending, 0.145629,10000,49993426
+data-set/10000-numbers-8-unordered.txt.csv, unordered, 0.090471,10000,25247593
+data-set/10000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000076,10000,9999
+data-set/10000-numbers-9-ordered-descending.txt.csv, descending, 0.191019,10000,49993503
+data-set/10000-numbers-9-unordered.txt.csv, unordered, 0.072541,10000,24945631
+data-set/100000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000644,100000,99999
+data-set/100000-numbers-0-ordered-descending.txt.csv, descending, 14.202331,100000,704829822
+data-set/100000-numbers-0-unordered.txt.csv, unordered, 7.109149,100000,-1799582342
+data-set/100000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000621,100000,99997
+data-set/100000-numbers-1-ordered-descending.txt.csv, descending, 13.459101,100000,704830420
+data-set/100000-numbers-1-unordered.txt.csv, unordered, 6.736148,100000,-1782628573
+data-set/100000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000594,100000,99997
+data-set/100000-numbers-10-ordered-descending.txt.csv, descending, 13.039845,100000,704829303
+data-set/100000-numbers-10-unordered.txt.csv, unordered, 6.571328,100000,-1789508544
+data-set/100000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000767,100000,99994
+data-set/100000-numbers-11-ordered-descending.txt.csv, descending, 13.170717,100000,704829839
+data-set/100000-numbers-11-unordered.txt.csv, unordered, 6.520583,100000,-1793441523
+data-set/100000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000649,100000,99996
+data-set/100000-numbers-12-ordered-descending.txt.csv, descending, 13.047817,100000,704830626
+data-set/100000-numbers-12-unordered.txt.csv, unordered, 6.629787,100000,-1794722284
+data-set/100000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000592,100000,99997
+data-set/100000-numbers-13-ordered-descending.txt.csv, descending, 13.080472,100000,704830713
+data-set/100000-numbers-13-unordered.txt.csv, unordered, 6.527840,100000,-1797359799
+data-set/100000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000595,100000,99995
+data-set/100000-numbers-14-ordered-descending.txt.csv, descending, 13.090779,100000,704829615
+data-set/100000-numbers-14-unordered.txt.csv, unordered, 6.515354,100000,-1790133536
+data-set/100000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000599,100000,99994
+data-set/100000-numbers-15-ordered-descending.txt.csv, descending, 12.990562,100000,704829809
+data-set/100000-numbers-15-unordered.txt.csv, unordered, 6.529221,100000,-1787417607
+data-set/100000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000620,100000,99998
+data-set/100000-numbers-16-ordered-descending.txt.csv, descending, 13.157005,100000,704830245
+data-set/100000-numbers-16-unordered.txt.csv, unordered, 6.528267,100000,-1795819560
+data-set/100000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000941,100000,99995
+data-set/100000-numbers-17-ordered-descending.txt.csv, descending, 12.948267,100000,704829797
+data-set/100000-numbers-17-unordered.txt.csv, unordered, 6.590817,100000,-1787519027
+data-set/100000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000600,100000,99996
+data-set/100000-numbers-18-ordered-descending.txt.csv, descending, 13.059901,100000,704829927
+data-set/100000-numbers-18-unordered.txt.csv, unordered, 6.512616,100000,-1801169438
+data-set/100000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000594,100000,99995
+data-set/100000-numbers-19-ordered-descending.txt.csv, descending, 12.993447,100000,704830215
+data-set/100000-numbers-19-unordered.txt.csv, unordered, 6.588748,100000,-1795196698
+data-set/100000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000594,100000,99997
+data-set/100000-numbers-2-ordered-descending.txt.csv, descending, 13.096568,100000,704830542
+data-set/100000-numbers-2-unordered.txt.csv, unordered, 6.463039,100000,-1803379115
+data-set/100000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000916,100000,99996
+data-set/100000-numbers-20-ordered-descending.txt.csv, descending, 12.944090,100000,704830218
+data-set/100000-numbers-20-unordered.txt.csv, unordered, 6.552576,100000,-1794954214
+data-set/100000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000595,100000,99998
+data-set/100000-numbers-21-ordered-descending.txt.csv, descending, 12.946673,100000,704830196
+data-set/100000-numbers-21-unordered.txt.csv, unordered, 6.486087,100000,-1798789440
+data-set/100000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000636,100000,99997
+data-set/100000-numbers-22-ordered-descending.txt.csv, descending, 13.067236,100000,704829948
+data-set/100000-numbers-22-unordered.txt.csv, unordered, 6.547042,100000,-1794200135
+data-set/100000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000757,100000,99996
+data-set/100000-numbers-23-ordered-descending.txt.csv, descending, 13.006661,100000,704829896
+data-set/100000-numbers-23-unordered.txt.csv, unordered, 6.531029,100000,-1793487618
+data-set/100000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000592,100000,99995
+data-set/100000-numbers-24-ordered-descending.txt.csv, descending, 13.104426,100000,704830283
+data-set/100000-numbers-24-unordered.txt.csv, unordered, 6.503737,100000,-1801562147
+data-set/100000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000694,100000,99998
+data-set/100000-numbers-25-ordered-descending.txt.csv, descending, 12.985799,100000,704829870
+data-set/100000-numbers-25-unordered.txt.csv, unordered, 6.555816,100000,-1794457034
+data-set/100000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000596,100000,99994
+data-set/100000-numbers-26-ordered-descending.txt.csv, descending, 13.092852,100000,704830163
+data-set/100000-numbers-26-unordered.txt.csv, unordered, 6.465852,100000,-1801596015
+data-set/100000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000595,100000,99997
+data-set/100000-numbers-27-ordered-descending.txt.csv, descending, 12.949701,100000,704830064
+data-set/100000-numbers-27-unordered.txt.csv, unordered, 6.553445,100000,-1787043473
+data-set/100000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000727,100000,99998
+data-set/100000-numbers-28-ordered-descending.txt.csv, descending, 13.088079,100000,704830252
+data-set/100000-numbers-28-unordered.txt.csv, unordered, 6.470493,100000,-1804949922
+data-set/100000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000596,100000,99997
+data-set/100000-numbers-29-ordered-descending.txt.csv, descending, 13.015404,100000,704829528
+data-set/100000-numbers-29-unordered.txt.csv, unordered, 6.520484,100000,-1799445643
+data-set/100000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000630,100000,99994
+data-set/100000-numbers-3-ordered-descending.txt.csv, descending, 13.042380,100000,704830428
+data-set/100000-numbers-3-unordered.txt.csv, unordered, 6.612900,100000,-1798534907
+data-set/100000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000686,100000,99996
+data-set/100000-numbers-4-ordered-descending.txt.csv, descending, 14.383110,100000,704830133
+data-set/100000-numbers-4-unordered.txt.csv, unordered, 8.206938,100000,-1793049778
+data-set/100000-numbers-5-ordered-ascending.txt.csv, ascending, 0.001508,100000,99998
+data-set/100000-numbers-5-ordered-descending.txt.csv, descending, 15.193986,100000,704830063
+data-set/100000-numbers-5-unordered.txt.csv, unordered, 7.543812,100000,-1795356080
+data-set/100000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000707,100000,99997
+data-set/100000-numbers-6-ordered-descending.txt.csv, descending, 16.146332,100000,704830016
+data-set/100000-numbers-6-unordered.txt.csv, unordered, 7.655199,100000,-1796742964
+data-set/100000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000767,100000,99994
+data-set/100000-numbers-7-ordered-descending.txt.csv, descending, 14.357184,100000,704829894
+data-set/100000-numbers-7-unordered.txt.csv, unordered, 6.665383,100000,-1792992661
+data-set/100000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000719,100000,99994
+data-set/100000-numbers-8-ordered-descending.txt.csv, descending, 13.394668,100000,704829938
+data-set/100000-numbers-8-unordered.txt.csv, unordered, 7.072428,100000,-1793747519
+data-set/100000-numbers-9-ordered-ascending.txt.csv, ascending, 0.001069,100000,99995
+data-set/100000-numbers-9-ordered-descending.txt.csv, descending, 13.687281,100000,704830085
+data-set/100000-numbers-9-unordered.txt.csv, unordered, 6.871540,100000,-1798837495
+data-set/20000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000123,20000,19998
+data-set/20000-numbers-0-ordered-descending.txt.csv, descending, 0.539198,20000,199983788
+data-set/20000-numbers-0-unordered.txt.csv, unordered, 0.267604,20000,100349054
+data-set/20000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000119,20000,19997
+data-set/20000-numbers-1-ordered-descending.txt.csv, descending, 0.588875,20000,199983809
+data-set/20000-numbers-1-unordered.txt.csv, unordered, 0.295421,20000,99942598
+data-set/20000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000123,20000,19999
+data-set/20000-numbers-10-ordered-descending.txt.csv, descending, 0.565111,20000,199983925
+data-set/20000-numbers-10-unordered.txt.csv, unordered, 0.297382,20000,99676876
+data-set/20000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000128,20000,19999
+data-set/20000-numbers-11-ordered-descending.txt.csv, descending, 0.577706,20000,199983798
+data-set/20000-numbers-11-unordered.txt.csv, unordered, 0.274195,20000,100436791
+data-set/20000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000186,20000,19999
+data-set/20000-numbers-12-ordered-descending.txt.csv, descending, 0.599057,20000,199983847
+data-set/20000-numbers-12-unordered.txt.csv, unordered, 0.275230,20000,100468386
+data-set/20000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000118,20000,19998
+data-set/20000-numbers-13-ordered-descending.txt.csv, descending, 0.628830,20000,199983926
+data-set/20000-numbers-13-unordered.txt.csv, unordered, 0.315977,20000,100199365
+data-set/20000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000186,20000,19999
+data-set/20000-numbers-14-ordered-descending.txt.csv, descending, 0.709881,20000,199983934
+data-set/20000-numbers-14-unordered.txt.csv, unordered, 0.318102,20000,99739593
+data-set/20000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000166,20000,19999
+data-set/20000-numbers-15-ordered-descending.txt.csv, descending, 0.654093,20000,199983989
+data-set/20000-numbers-15-unordered.txt.csv, unordered, 0.311935,20000,99720918
+data-set/20000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000156,20000,19998
+data-set/20000-numbers-16-ordered-descending.txt.csv, descending, 0.723353,20000,199983986
+data-set/20000-numbers-16-unordered.txt.csv, unordered, 0.331639,20000,99480446
+data-set/20000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000154,20000,19998
+data-set/20000-numbers-17-ordered-descending.txt.csv, descending, 0.671233,20000,199983947
+data-set/20000-numbers-17-unordered.txt.csv, unordered, 0.361363,20000,100071666
+data-set/20000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000154,20000,19999
+data-set/20000-numbers-18-ordered-descending.txt.csv, descending, 0.654169,20000,199983722
+data-set/20000-numbers-18-unordered.txt.csv, unordered, 0.322621,20000,99511069
+data-set/20000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000158,20000,19998
+data-set/20000-numbers-19-ordered-descending.txt.csv, descending, 0.673818,20000,199984010
+data-set/20000-numbers-19-unordered.txt.csv, unordered, 0.358026,20000,100195729
+data-set/20000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000127,20000,19999
+data-set/20000-numbers-2-ordered-descending.txt.csv, descending, 0.648358,20000,199983872
+data-set/20000-numbers-2-unordered.txt.csv, unordered, 0.317262,20000,99929503
+data-set/20000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000142,20000,19999
+data-set/20000-numbers-20-ordered-descending.txt.csv, descending, 0.703654,20000,199983872
+data-set/20000-numbers-20-unordered.txt.csv, unordered, 0.294766,20000,100259794
+data-set/20000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000247,20000,19999
+data-set/20000-numbers-21-ordered-descending.txt.csv, descending, 0.649442,20000,199983901
+data-set/20000-numbers-21-unordered.txt.csv, unordered, 0.335857,20000,99009353
+data-set/20000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000135,20000,19999
+data-set/20000-numbers-22-ordered-descending.txt.csv, descending, 0.668215,20000,199983821
+data-set/20000-numbers-22-unordered.txt.csv, unordered, 0.338636,20000,100183208
+data-set/20000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000119,20000,19999
+data-set/20000-numbers-23-ordered-descending.txt.csv, descending, 0.645740,20000,199983939
+data-set/20000-numbers-23-unordered.txt.csv, unordered, 0.383854,20000,99332190
+data-set/20000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000194,20000,19999
+data-set/20000-numbers-24-ordered-descending.txt.csv, descending, 0.582781,20000,199983915
+data-set/20000-numbers-24-unordered.txt.csv, unordered, 0.279012,20000,100453668
+data-set/20000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000119,20000,19999
+data-set/20000-numbers-25-ordered-descending.txt.csv, descending, 0.588736,20000,199983889
+data-set/20000-numbers-25-unordered.txt.csv, unordered, 0.271131,20000,99260507
+data-set/20000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000127,20000,19998
+data-set/20000-numbers-26-ordered-descending.txt.csv, descending, 0.574246,20000,199983948
+data-set/20000-numbers-26-unordered.txt.csv, unordered, 0.291655,20000,100255349
+data-set/20000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000131,20000,19998
+data-set/20000-numbers-27-ordered-descending.txt.csv, descending, 0.584119,20000,199984034
+data-set/20000-numbers-27-unordered.txt.csv, unordered, 0.279470,20000,99382477
+data-set/20000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000122,20000,19997
+data-set/20000-numbers-28-ordered-descending.txt.csv, descending, 0.559024,20000,199983859
+data-set/20000-numbers-28-unordered.txt.csv, unordered, 0.280777,20000,100170230
+data-set/20000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000136,20000,19999
+data-set/20000-numbers-29-ordered-descending.txt.csv, descending, 0.589528,20000,199983852
+data-set/20000-numbers-29-unordered.txt.csv, unordered, 0.399155,20000,99242682
+data-set/20000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000299,20000,19999
+data-set/20000-numbers-3-ordered-descending.txt.csv, descending, 0.725283,20000,199983997
+data-set/20000-numbers-3-unordered.txt.csv, unordered, 0.378056,20000,100585938
+data-set/20000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000149,20000,19999
+data-set/20000-numbers-4-ordered-descending.txt.csv, descending, 0.672054,20000,199983968
+data-set/20000-numbers-4-unordered.txt.csv, unordered, 0.330918,20000,100272992
+data-set/20000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000136,20000,19999
+data-set/20000-numbers-5-ordered-descending.txt.csv, descending, 0.616729,20000,199983726
+data-set/20000-numbers-5-unordered.txt.csv, unordered, 0.315475,20000,99573447
+data-set/20000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000201,20000,19998
+data-set/20000-numbers-6-ordered-descending.txt.csv, descending, 0.682020,20000,199983984
+data-set/20000-numbers-6-unordered.txt.csv, unordered, 0.305482,20000,99826218
+data-set/20000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000181,20000,19998
+data-set/20000-numbers-7-ordered-descending.txt.csv, descending, 0.710443,20000,199983964
+data-set/20000-numbers-7-unordered.txt.csv, unordered, 0.311787,20000,99246955
+data-set/20000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000141,20000,19998
+data-set/20000-numbers-8-ordered-descending.txt.csv, descending, 0.687447,20000,199983905
+data-set/20000-numbers-8-unordered.txt.csv, unordered, 0.390937,20000,100480643
+data-set/20000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000234,20000,19998
+data-set/20000-numbers-9-ordered-descending.txt.csv, descending, 0.646345,20000,199983890
+data-set/20000-numbers-9-unordered.txt.csv, unordered, 0.318314,20000,99743262
+data-set/30000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000357,30000,29999
+data-set/30000-numbers-0-ordered-descending.txt.csv, descending, 1.342527,30000,449971317
+data-set/30000-numbers-0-unordered.txt.csv, unordered, 0.671047,30000,225046327
+data-set/30000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000180,30000,29999
+data-set/30000-numbers-1-ordered-descending.txt.csv, descending, 1.229703,30000,449971242
+data-set/30000-numbers-1-unordered.txt.csv, unordered, 0.603401,30000,225099086
+data-set/30000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000179,30000,29999
+data-set/30000-numbers-10-ordered-descending.txt.csv, descending, 1.204163,30000,449971188
+data-set/30000-numbers-10-unordered.txt.csv, unordered, 0.621888,30000,225537133
+data-set/30000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000178,30000,29996
+data-set/30000-numbers-11-ordered-descending.txt.csv, descending, 1.267078,30000,449971506
+data-set/30000-numbers-11-unordered.txt.csv, unordered, 0.655449,30000,225421247
+data-set/30000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000223,30000,29998
+data-set/30000-numbers-12-ordered-descending.txt.csv, descending, 1.287845,30000,449971147
+data-set/30000-numbers-12-unordered.txt.csv, unordered, 0.640032,30000,224550518
+data-set/30000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000177,30000,29999
+data-set/30000-numbers-13-ordered-descending.txt.csv, descending, 1.272244,30000,449971425
+data-set/30000-numbers-13-unordered.txt.csv, unordered, 0.630386,30000,224974910
+data-set/30000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000212,30000,29998
+data-set/30000-numbers-14-ordered-descending.txt.csv, descending, 1.289460,30000,449971301
+data-set/30000-numbers-14-unordered.txt.csv, unordered, 0.635559,30000,224507715
+data-set/30000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000179,30000,29998
+data-set/30000-numbers-15-ordered-descending.txt.csv, descending, 1.288180,30000,449971372
+data-set/30000-numbers-15-unordered.txt.csv, unordered, 0.647659,30000,224279039
+data-set/30000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000223,30000,29999
+data-set/30000-numbers-16-ordered-descending.txt.csv, descending, 1.284752,30000,449971472
+data-set/30000-numbers-16-unordered.txt.csv, unordered, 0.655422,30000,225994734
+data-set/30000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000179,30000,29997
+data-set/30000-numbers-17-ordered-descending.txt.csv, descending, 1.287820,30000,449971234
+data-set/30000-numbers-17-unordered.txt.csv, unordered, 0.636008,30000,225284714
+data-set/30000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000183,30000,29999
+data-set/30000-numbers-18-ordered-descending.txt.csv, descending, 1.237741,30000,449971295
+data-set/30000-numbers-18-unordered.txt.csv, unordered, 0.640095,30000,225560302
+data-set/30000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000184,30000,29997
+data-set/30000-numbers-19-ordered-descending.txt.csv, descending, 1.512784,30000,449971144
+data-set/30000-numbers-19-unordered.txt.csv, unordered, 0.671828,30000,226988550
+data-set/30000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000289,30000,29999
+data-set/30000-numbers-2-ordered-descending.txt.csv, descending, 1.362732,30000,449971169
+data-set/30000-numbers-2-unordered.txt.csv, unordered, 0.656047,30000,224227318
+data-set/30000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000270,30000,29999
+data-set/30000-numbers-20-ordered-descending.txt.csv, descending, 1.339719,30000,449971260
+data-set/30000-numbers-20-unordered.txt.csv, unordered, 0.675936,30000,225233043
+data-set/30000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000219,30000,29999
+data-set/30000-numbers-21-ordered-descending.txt.csv, descending, 1.361820,30000,449971456
+data-set/30000-numbers-21-unordered.txt.csv, unordered, 0.658119,30000,225335392
+data-set/30000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000233,30000,29998
+data-set/30000-numbers-22-ordered-descending.txt.csv, descending, 1.347777,30000,449971175
+data-set/30000-numbers-22-unordered.txt.csv, unordered, 0.699952,30000,225113889
+data-set/30000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000242,30000,29996
+data-set/30000-numbers-23-ordered-descending.txt.csv, descending, 1.338234,30000,449971431
+data-set/30000-numbers-23-unordered.txt.csv, unordered, 0.691367,30000,224829637
+data-set/30000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000203,30000,29998
+data-set/30000-numbers-24-ordered-descending.txt.csv, descending, 1.346800,30000,449971169
+data-set/30000-numbers-24-unordered.txt.csv, unordered, 0.616412,30000,224056076
+data-set/30000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000274,30000,29998
+data-set/30000-numbers-25-ordered-descending.txt.csv, descending, 1.258497,30000,449971392
+data-set/30000-numbers-25-unordered.txt.csv, unordered, 0.632815,30000,224625628
+data-set/30000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000183,30000,29998
+data-set/30000-numbers-26-ordered-descending.txt.csv, descending, 1.421470,30000,449971002
+data-set/30000-numbers-26-unordered.txt.csv, unordered, 0.675336,30000,226475686
+data-set/30000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000204,30000,29998
+data-set/30000-numbers-27-ordered-descending.txt.csv, descending, 1.345129,30000,449971195
+data-set/30000-numbers-27-unordered.txt.csv, unordered, 0.659668,30000,224147383
+data-set/30000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000180,30000,29999
+data-set/30000-numbers-28-ordered-descending.txt.csv, descending, 1.351033,30000,449971270
+data-set/30000-numbers-28-unordered.txt.csv, unordered, 0.656124,30000,224163405
+data-set/30000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000315,30000,29999
+data-set/30000-numbers-29-ordered-descending.txt.csv, descending, 1.293751,30000,449971198
+data-set/30000-numbers-29-unordered.txt.csv, unordered, 0.663915,30000,226134672
+data-set/30000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000261,30000,29999
+data-set/30000-numbers-3-ordered-descending.txt.csv, descending, 1.263832,30000,449971286
+data-set/30000-numbers-3-unordered.txt.csv, unordered, 0.749047,30000,225448075
+data-set/30000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000178,30000,29998
+data-set/30000-numbers-4-ordered-descending.txt.csv, descending, 1.315901,30000,449971129
+data-set/30000-numbers-4-unordered.txt.csv, unordered, 0.624212,30000,225231367
+data-set/30000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000291,30000,29998
+data-set/30000-numbers-5-ordered-descending.txt.csv, descending, 1.313287,30000,449971208
+data-set/30000-numbers-5-unordered.txt.csv, unordered, 0.628056,30000,226368849
+data-set/30000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000256,30000,29999
+data-set/30000-numbers-6-ordered-descending.txt.csv, descending, 1.286936,30000,449971363
+data-set/30000-numbers-6-unordered.txt.csv, unordered, 0.654135,30000,223873979
+data-set/30000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000186,30000,29999
+data-set/30000-numbers-7-ordered-descending.txt.csv, descending, 1.234461,30000,449971219
+data-set/30000-numbers-7-unordered.txt.csv, unordered, 0.627475,30000,225428146
+data-set/30000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000185,30000,29998
+data-set/30000-numbers-8-ordered-descending.txt.csv, descending, 1.293953,30000,449971089
+data-set/30000-numbers-8-unordered.txt.csv, unordered, 0.639236,30000,225431520
+data-set/30000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000184,30000,29999
+data-set/30000-numbers-9-ordered-descending.txt.csv, descending, 1.301603,30000,449971343
+data-set/30000-numbers-9-unordered.txt.csv, unordered, 0.626670,30000,224747080
+data-set/40000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000254,40000,39998
+data-set/40000-numbers-0-ordered-descending.txt.csv, descending, 2.183777,40000,799955336
+data-set/40000-numbers-0-unordered.txt.csv, unordered, 1.106895,40000,398637944
+data-set/40000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000236,40000,39998
+data-set/40000-numbers-1-ordered-descending.txt.csv, descending, 2.172698,40000,799955178
+data-set/40000-numbers-1-unordered.txt.csv, unordered, 1.122314,40000,401002190
+data-set/40000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000245,40000,39997
+data-set/40000-numbers-10-ordered-descending.txt.csv, descending, 2.221727,40000,799955626
+data-set/40000-numbers-10-unordered.txt.csv, unordered, 1.145866,40000,400295985
+data-set/40000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000244,40000,39998
+data-set/40000-numbers-11-ordered-descending.txt.csv, descending, 2.287625,40000,799955789
+data-set/40000-numbers-11-unordered.txt.csv, unordered, 1.137944,40000,399657426
+data-set/40000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000246,40000,39998
+data-set/40000-numbers-12-ordered-descending.txt.csv, descending, 2.259220,40000,799955609
+data-set/40000-numbers-12-unordered.txt.csv, unordered, 1.123792,40000,400195884
+data-set/40000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000261,40000,39996
+data-set/40000-numbers-13-ordered-descending.txt.csv, descending, 2.268749,40000,799955736
+data-set/40000-numbers-13-unordered.txt.csv, unordered, 1.114147,40000,398360693
+data-set/40000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000237,40000,39999
+data-set/40000-numbers-14-ordered-descending.txt.csv, descending, 2.266675,40000,799955758
+data-set/40000-numbers-14-unordered.txt.csv, unordered, 1.119789,40000,399674983
+data-set/40000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000280,40000,39997
+data-set/40000-numbers-15-ordered-descending.txt.csv, descending, 2.279433,40000,799955644
+data-set/40000-numbers-15-unordered.txt.csv, unordered, 1.139650,40000,399198218
+data-set/40000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000253,40000,39998
+data-set/40000-numbers-16-ordered-descending.txt.csv, descending, 2.335838,40000,799955327
+data-set/40000-numbers-16-unordered.txt.csv, unordered, 1.145786,40000,399652280
+data-set/40000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000237,40000,39998
+data-set/40000-numbers-17-ordered-descending.txt.csv, descending, 2.196670,40000,799955810
+data-set/40000-numbers-17-unordered.txt.csv, unordered, 1.096889,40000,401494922
+data-set/40000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000322,40000,39999
+data-set/40000-numbers-18-ordered-descending.txt.csv, descending, 2.505374,40000,799955560
+data-set/40000-numbers-18-unordered.txt.csv, unordered, 1.148186,40000,399787646
+data-set/40000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000326,40000,39999
+data-set/40000-numbers-19-ordered-descending.txt.csv, descending, 2.252738,40000,799955708
+data-set/40000-numbers-19-unordered.txt.csv, unordered, 1.108731,40000,401691375
+data-set/40000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000239,40000,39999
+data-set/40000-numbers-2-ordered-descending.txt.csv, descending, 2.233668,40000,799955773
+data-set/40000-numbers-2-unordered.txt.csv, unordered, 1.135760,40000,400906838
+data-set/40000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000418,40000,39997
+data-set/40000-numbers-20-ordered-descending.txt.csv, descending, 2.197004,40000,799955369
+data-set/40000-numbers-20-unordered.txt.csv, unordered, 1.087514,40000,399336920
+data-set/40000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000240,40000,39997
+data-set/40000-numbers-21-ordered-descending.txt.csv, descending, 2.197145,40000,799955712
+data-set/40000-numbers-21-unordered.txt.csv, unordered, 1.071416,40000,397834850
+data-set/40000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000237,40000,39997
+data-set/40000-numbers-22-ordered-descending.txt.csv, descending, 2.195703,40000,799955398
+data-set/40000-numbers-22-unordered.txt.csv, unordered, 1.336550,40000,400411751
+data-set/40000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000262,40000,39998
+data-set/40000-numbers-23-ordered-descending.txt.csv, descending, 2.206722,40000,799955495
+data-set/40000-numbers-23-unordered.txt.csv, unordered, 1.082730,40000,398976194
+data-set/40000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000327,40000,39998
+data-set/40000-numbers-24-ordered-descending.txt.csv, descending, 2.307011,40000,799955290
+data-set/40000-numbers-24-unordered.txt.csv, unordered, 1.110304,40000,399793015
+data-set/40000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000246,40000,39997
+data-set/40000-numbers-25-ordered-descending.txt.csv, descending, 2.240913,40000,799955974
+data-set/40000-numbers-25-unordered.txt.csv, unordered, 1.110553,40000,397193599
+data-set/40000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000257,40000,39998
+data-set/40000-numbers-26-ordered-descending.txt.csv, descending, 2.593989,40000,799955600
+data-set/40000-numbers-26-unordered.txt.csv, unordered, 1.185335,40000,400463774
+data-set/40000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000281,40000,39994
+data-set/40000-numbers-27-ordered-descending.txt.csv, descending, 2.556095,40000,799955623
+data-set/40000-numbers-27-unordered.txt.csv, unordered, 1.216238,40000,399396166
+data-set/40000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000257,40000,39999
+data-set/40000-numbers-28-ordered-descending.txt.csv, descending, 2.444817,40000,799955618
+data-set/40000-numbers-28-unordered.txt.csv, unordered, 1.297465,40000,399971493
+data-set/40000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000236,40000,39996
+data-set/40000-numbers-29-ordered-descending.txt.csv, descending, 2.562280,40000,799955599
+data-set/40000-numbers-29-unordered.txt.csv, unordered, 1.292504,40000,400529476
+data-set/40000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000558,40000,39998
+data-set/40000-numbers-3-ordered-descending.txt.csv, descending, 2.414869,40000,799955380
+data-set/40000-numbers-3-unordered.txt.csv, unordered, 1.206507,40000,398551384
+data-set/40000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000261,40000,39997
+data-set/40000-numbers-4-ordered-descending.txt.csv, descending, 2.211927,40000,799955679
+data-set/40000-numbers-4-unordered.txt.csv, unordered, 1.100721,40000,399755101
+data-set/40000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000469,40000,39999
+data-set/40000-numbers-5-ordered-descending.txt.csv, descending, 2.202445,40000,799955749
+data-set/40000-numbers-5-unordered.txt.csv, unordered, 1.080586,40000,399263332
+data-set/40000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000285,40000,39999
+data-set/40000-numbers-6-ordered-descending.txt.csv, descending, 2.213610,40000,799955644
+data-set/40000-numbers-6-unordered.txt.csv, unordered, 1.095371,40000,400499662
+data-set/40000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000239,40000,39997
+data-set/40000-numbers-7-ordered-descending.txt.csv, descending, 2.278809,40000,799955544
+data-set/40000-numbers-7-unordered.txt.csv, unordered, 1.173876,40000,401724099
+data-set/40000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000238,40000,39997
+data-set/40000-numbers-8-ordered-descending.txt.csv, descending, 2.310757,40000,799955599
+data-set/40000-numbers-8-unordered.txt.csv, unordered, 1.154913,40000,400696701
+data-set/40000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000246,40000,39999
+data-set/40000-numbers-9-ordered-descending.txt.csv, descending, 2.195834,40000,799955667
+data-set/40000-numbers-9-unordered.txt.csv, unordered, 1.084636,40000,401401941
+data-set/50000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000308,50000,49998
+data-set/50000-numbers-0-ordered-descending.txt.csv, descending, 3.332587,50000,1249937010
+data-set/50000-numbers-0-unordered.txt.csv, unordered, 1.671207,50000,626837294
+data-set/50000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000368,50000,49998
+data-set/50000-numbers-1-ordered-descending.txt.csv, descending, 3.317031,50000,1249936892
+data-set/50000-numbers-1-unordered.txt.csv, unordered, 1.667530,50000,628318909
+data-set/50000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000296,50000,49998
+data-set/50000-numbers-10-ordered-descending.txt.csv, descending, 3.339170,50000,1249936990
+data-set/50000-numbers-10-unordered.txt.csv, unordered, 1.728405,50000,623664355
+data-set/50000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000296,50000,49998
+data-set/50000-numbers-11-ordered-descending.txt.csv, descending, 3.343558,50000,1249936883
+data-set/50000-numbers-11-unordered.txt.csv, unordered, 1.650151,50000,622931252
+data-set/50000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000298,50000,49998
+data-set/50000-numbers-12-ordered-descending.txt.csv, descending, 3.339327,50000,1249936916
+data-set/50000-numbers-12-unordered.txt.csv, unordered, 1.649490,50000,625850558
+data-set/50000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000318,50000,49998
+data-set/50000-numbers-13-ordered-descending.txt.csv, descending, 3.334380,50000,1249937205
+data-set/50000-numbers-13-unordered.txt.csv, unordered, 1.673261,50000,623736764
+data-set/50000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000296,50000,49999
+data-set/50000-numbers-14-ordered-descending.txt.csv, descending, 3.373180,50000,1249936681
+data-set/50000-numbers-14-unordered.txt.csv, unordered, 1.652643,50000,625838200
+data-set/50000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000289,50000,49996
+data-set/50000-numbers-15-ordered-descending.txt.csv, descending, 3.351527,50000,1249937043
+data-set/50000-numbers-15-unordered.txt.csv, unordered, 1.673996,50000,622784601
+data-set/50000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000452,50000,49998
+data-set/50000-numbers-16-ordered-descending.txt.csv, descending, 3.375276,50000,1249936718
+data-set/50000-numbers-16-unordered.txt.csv, unordered, 1.665515,50000,625810100
+data-set/50000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000297,50000,49999
+data-set/50000-numbers-17-ordered-descending.txt.csv, descending, 3.334644,50000,1249937079
+data-set/50000-numbers-17-unordered.txt.csv, unordered, 1.645647,50000,625254388
+data-set/50000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000308,50000,49997
+data-set/50000-numbers-18-ordered-descending.txt.csv, descending, 3.291237,50000,1249936971
+data-set/50000-numbers-18-unordered.txt.csv, unordered, 1.656924,50000,627856318
+data-set/50000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000296,50000,49997
+data-set/50000-numbers-19-ordered-descending.txt.csv, descending, 3.339444,50000,1249936565
+data-set/50000-numbers-19-unordered.txt.csv, unordered, 1.656299,50000,626013876
+data-set/50000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000337,50000,49996
+data-set/50000-numbers-2-ordered-descending.txt.csv, descending, 3.330984,50000,1249937197
+data-set/50000-numbers-2-unordered.txt.csv, unordered, 1.654379,50000,623477030
+data-set/50000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000296,50000,49997
+data-set/50000-numbers-20-ordered-descending.txt.csv, descending, 3.617554,50000,1249936603
+data-set/50000-numbers-20-unordered.txt.csv, unordered, 1.755819,50000,624477508
+data-set/50000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000308,50000,49998
+data-set/50000-numbers-21-ordered-descending.txt.csv, descending, 3.585827,50000,1249936676
+data-set/50000-numbers-21-unordered.txt.csv, unordered, 1.763493,50000,629249025
+data-set/50000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000305,50000,49999
+data-set/50000-numbers-22-ordered-descending.txt.csv, descending, 3.532793,50000,1249936909
+data-set/50000-numbers-22-unordered.txt.csv, unordered, 1.734749,50000,623348199
+data-set/50000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000310,50000,49999
+data-set/50000-numbers-23-ordered-descending.txt.csv, descending, 3.420177,50000,1249937126
+data-set/50000-numbers-23-unordered.txt.csv, unordered, 1.722008,50000,625601013
+data-set/50000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000306,50000,49997
+data-set/50000-numbers-24-ordered-descending.txt.csv, descending, 3.461670,50000,1249937060
+data-set/50000-numbers-24-unordered.txt.csv, unordered, 1.688615,50000,627953094
+data-set/50000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000296,50000,49998
+data-set/50000-numbers-25-ordered-descending.txt.csv, descending, 3.465915,50000,1249936940
+data-set/50000-numbers-25-unordered.txt.csv, unordered, 1.726375,50000,626002027
+data-set/50000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000305,50000,49995
+data-set/50000-numbers-26-ordered-descending.txt.csv, descending, 3.414890,50000,1249936888
+data-set/50000-numbers-26-unordered.txt.csv, unordered, 1.720228,50000,625374273
+data-set/50000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000349,50000,49998
+data-set/50000-numbers-27-ordered-descending.txt.csv, descending, 3.448275,50000,1249936507
+data-set/50000-numbers-27-unordered.txt.csv, unordered, 1.708588,50000,624627156
+data-set/50000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000302,50000,49998
+data-set/50000-numbers-28-ordered-descending.txt.csv, descending, 3.465237,50000,1249936799
+data-set/50000-numbers-28-unordered.txt.csv, unordered, 1.710284,50000,624187843
+data-set/50000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000368,50000,49999
+data-set/50000-numbers-29-ordered-descending.txt.csv, descending, 3.452973,50000,1249936959
+data-set/50000-numbers-29-unordered.txt.csv, unordered, 1.729295,50000,626036703
+data-set/50000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000297,50000,49999
+data-set/50000-numbers-3-ordered-descending.txt.csv, descending, 3.432775,50000,1249937207
+data-set/50000-numbers-3-unordered.txt.csv, unordered, 1.732260,50000,624082714
+data-set/50000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000377,50000,49997
+data-set/50000-numbers-4-ordered-descending.txt.csv, descending, 3.476104,50000,1249936795
+data-set/50000-numbers-4-unordered.txt.csv, unordered, 1.693199,50000,625470143
+data-set/50000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000321,50000,49998
+data-set/50000-numbers-5-ordered-descending.txt.csv, descending, 3.462790,50000,1249936916
+data-set/50000-numbers-5-unordered.txt.csv, unordered, 1.751101,50000,624656793
+data-set/50000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000316,50000,49996
+data-set/50000-numbers-6-ordered-descending.txt.csv, descending, 3.434893,50000,1249937022
+data-set/50000-numbers-6-unordered.txt.csv, unordered, 1.702656,50000,621002242
+data-set/50000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000339,50000,49993
+data-set/50000-numbers-7-ordered-descending.txt.csv, descending, 3.430233,50000,1249936941
+data-set/50000-numbers-7-unordered.txt.csv, unordered, 1.674245,50000,626327854
+data-set/50000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000346,50000,49997
+data-set/50000-numbers-8-ordered-descending.txt.csv, descending, 3.289836,50000,1249937082
+data-set/50000-numbers-8-unordered.txt.csv, unordered, 1.645325,50000,623448297
+data-set/50000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000327,50000,49997
+data-set/50000-numbers-9-ordered-descending.txt.csv, descending, 3.296101,50000,1249937006
+data-set/50000-numbers-9-unordered.txt.csv, unordered, 1.634016,50000,623390612
+data-set/60000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000417,60000,59995
+data-set/60000-numbers-0-ordered-descending.txt.csv, descending, 4.724978,60000,1799915257
+data-set/60000-numbers-0-unordered.txt.csv, unordered, 2.339278,60000,897895090
+data-set/60000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000412,60000,59997
+data-set/60000-numbers-1-ordered-descending.txt.csv, descending, 4.700804,60000,1799915060
+data-set/60000-numbers-1-unordered.txt.csv, unordered, 2.355772,60000,899788791
+data-set/60000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000371,60000,59996
+data-set/60000-numbers-10-ordered-descending.txt.csv, descending, 4.709252,60000,1799914805
+data-set/60000-numbers-10-unordered.txt.csv, unordered, 2.335508,60000,898819452
+data-set/60000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000346,60000,59997
+data-set/60000-numbers-11-ordered-descending.txt.csv, descending, 4.729552,60000,1799914755
+data-set/60000-numbers-11-unordered.txt.csv, unordered, 2.356849,60000,899041305
+data-set/60000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000356,60000,59999
+data-set/60000-numbers-12-ordered-descending.txt.csv, descending, 4.729347,60000,1799914859
+data-set/60000-numbers-12-unordered.txt.csv, unordered, 2.337779,60000,899840568
+data-set/60000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000379,60000,59996
+data-set/60000-numbers-13-ordered-descending.txt.csv, descending, 4.657568,60000,1799915323
+data-set/60000-numbers-13-unordered.txt.csv, unordered, 2.337923,60000,906194559
+data-set/60000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000343,60000,59998
+data-set/60000-numbers-14-ordered-descending.txt.csv, descending, 4.645625,60000,1799915003
+data-set/60000-numbers-14-unordered.txt.csv, unordered, 2.325598,60000,899881548
+data-set/60000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000354,60000,59998
+data-set/60000-numbers-15-ordered-descending.txt.csv, descending, 4.743413,60000,1799915203
+data-set/60000-numbers-15-unordered.txt.csv, unordered, 2.316916,60000,897258517
+data-set/60000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000345,60000,59996
+data-set/60000-numbers-16-ordered-descending.txt.csv, descending, 4.677688,60000,1799914980
+data-set/60000-numbers-16-unordered.txt.csv, unordered, 2.322342,60000,901267231
+data-set/60000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000355,60000,59994
+data-set/60000-numbers-17-ordered-descending.txt.csv, descending, 4.658048,60000,1799915279
+data-set/60000-numbers-17-unordered.txt.csv, unordered, 2.331329,60000,897274983
+data-set/60000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000369,60000,59996
+data-set/60000-numbers-18-ordered-descending.txt.csv, descending, 4.668346,60000,1799915120
+data-set/60000-numbers-18-unordered.txt.csv, unordered, 2.321640,60000,896582802
+data-set/60000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000357,60000,59996
+data-set/60000-numbers-19-ordered-descending.txt.csv, descending, 4.642265,60000,1799915180
+data-set/60000-numbers-19-unordered.txt.csv, unordered, 2.335466,60000,903423488
+data-set/60000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000364,60000,59998
+data-set/60000-numbers-2-ordered-descending.txt.csv, descending, 4.652938,60000,1799915053
+data-set/60000-numbers-2-unordered.txt.csv, unordered, 2.321733,60000,899717262
+data-set/60000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000347,60000,59998
+data-set/60000-numbers-20-ordered-descending.txt.csv, descending, 4.671760,60000,1799915197
+data-set/60000-numbers-20-unordered.txt.csv, unordered, 2.328963,60000,898651736
+data-set/60000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000356,60000,59994
+data-set/60000-numbers-21-ordered-descending.txt.csv, descending, 4.667432,60000,1799915061
+data-set/60000-numbers-21-unordered.txt.csv, unordered, 2.332292,60000,902746766
+data-set/60000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000439,60000,59997
+data-set/60000-numbers-22-ordered-descending.txt.csv, descending, 4.643878,60000,1799915287
+data-set/60000-numbers-22-unordered.txt.csv, unordered, 2.325119,60000,900640642
+data-set/60000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000345,60000,59998
+data-set/60000-numbers-23-ordered-descending.txt.csv, descending, 4.673168,60000,1799915129
+data-set/60000-numbers-23-unordered.txt.csv, unordered, 2.321395,60000,897331321
+data-set/60000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000381,60000,59998
+data-set/60000-numbers-24-ordered-descending.txt.csv, descending, 4.643237,60000,1799914978
+data-set/60000-numbers-24-unordered.txt.csv, unordered, 2.317383,60000,898039139
+data-set/60000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000411,60000,59999
+data-set/60000-numbers-25-ordered-descending.txt.csv, descending, 4.708220,60000,1799915362
+data-set/60000-numbers-25-unordered.txt.csv, unordered, 2.335864,60000,903948759
+data-set/60000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000346,60000,59996
+data-set/60000-numbers-26-ordered-descending.txt.csv, descending, 4.628926,60000,1799915299
+data-set/60000-numbers-26-unordered.txt.csv, unordered, 2.345336,60000,904054106
+data-set/60000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000359,60000,59997
+data-set/60000-numbers-27-ordered-descending.txt.csv, descending, 4.682250,60000,1799915069
+data-set/60000-numbers-27-unordered.txt.csv, unordered, 2.374843,60000,900574821
+data-set/60000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000346,60000,59998
+data-set/60000-numbers-28-ordered-descending.txt.csv, descending, 4.645419,60000,1799914918
+data-set/60000-numbers-28-unordered.txt.csv, unordered, 2.315666,60000,896005335
+data-set/60000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000369,60000,59994
+data-set/60000-numbers-29-ordered-descending.txt.csv, descending, 4.675504,60000,1799915158
+data-set/60000-numbers-29-unordered.txt.csv, unordered, 2.334428,60000,903698868
+data-set/60000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000357,60000,59995
+data-set/60000-numbers-3-ordered-descending.txt.csv, descending, 4.658733,60000,1799915053
+data-set/60000-numbers-3-unordered.txt.csv, unordered, 2.333154,60000,901307397
+data-set/60000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000348,60000,59998
+data-set/60000-numbers-4-ordered-descending.txt.csv, descending, 4.697460,60000,1799914957
+data-set/60000-numbers-4-unordered.txt.csv, unordered, 2.319554,60000,897924150
+data-set/60000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000413,60000,59996
+data-set/60000-numbers-5-ordered-descending.txt.csv, descending, 4.642835,60000,1799915153
+data-set/60000-numbers-5-unordered.txt.csv, unordered, 2.323883,60000,900966047
+data-set/60000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000346,60000,59998
+data-set/60000-numbers-6-ordered-descending.txt.csv, descending, 4.631339,60000,1799915296
+data-set/60000-numbers-6-unordered.txt.csv, unordered, 2.342603,60000,895809299
+data-set/60000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000349,60000,59996
+data-set/60000-numbers-7-ordered-descending.txt.csv, descending, 4.650833,60000,1799915450
+data-set/60000-numbers-7-unordered.txt.csv, unordered, 2.341901,60000,900899530
+data-set/60000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000345,60000,59996
+data-set/60000-numbers-8-ordered-descending.txt.csv, descending, 4.671015,60000,1799914769
+data-set/60000-numbers-8-unordered.txt.csv, unordered, 2.323731,60000,899605856
+data-set/60000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000470,60000,59995
+data-set/60000-numbers-9-ordered-descending.txt.csv, descending, 4.664368,60000,1799915231
+data-set/60000-numbers-9-unordered.txt.csv, unordered, 2.314634,60000,897397176
+data-set/70000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000416,70000,69997
+data-set/70000-numbers-0-ordered-descending.txt.csv, descending, 6.382280,70000,-1845077597
+data-set/70000-numbers-0-unordered.txt.csv, unordered, 3.168872,70000,1223192736
+data-set/70000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000403,70000,69997
+data-set/70000-numbers-1-ordered-descending.txt.csv, descending, 6.316157,70000,-1845077008
+data-set/70000-numbers-1-unordered.txt.csv, unordered, 3.160813,70000,1228066764
+data-set/70000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000404,70000,69996
+data-set/70000-numbers-10-ordered-descending.txt.csv, descending, 6.340187,70000,-1845077088
+data-set/70000-numbers-10-unordered.txt.csv, unordered, 3.160882,70000,1227778301
+data-set/70000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000435,70000,69999
+data-set/70000-numbers-11-ordered-descending.txt.csv, descending, 6.345076,70000,-1845076843
+data-set/70000-numbers-11-unordered.txt.csv, unordered, 3.176609,70000,1223829443
+data-set/70000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000416,70000,69996
+data-set/70000-numbers-12-ordered-descending.txt.csv, descending, 6.335383,70000,-1845077290
+data-set/70000-numbers-12-unordered.txt.csv, unordered, 3.157313,70000,1223361968
+data-set/70000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000403,70000,69997
+data-set/70000-numbers-13-ordered-descending.txt.csv, descending, 6.283866,70000,-1845076521
+data-set/70000-numbers-13-unordered.txt.csv, unordered, 3.152226,70000,1222507891
+data-set/70000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000433,70000,69997
+data-set/70000-numbers-14-ordered-descending.txt.csv, descending, 6.331098,70000,-1845077370
+data-set/70000-numbers-14-unordered.txt.csv, unordered, 3.141477,70000,1219997941
+data-set/70000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000414,70000,69999
+data-set/70000-numbers-15-ordered-descending.txt.csv, descending, 6.312723,70000,-1845076963
+data-set/70000-numbers-15-unordered.txt.csv, unordered, 3.150517,70000,1225188600
+data-set/70000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000520,70000,69996
+data-set/70000-numbers-16-ordered-descending.txt.csv, descending, 6.288555,70000,-1845077036
+data-set/70000-numbers-16-unordered.txt.csv, unordered, 3.159250,70000,1221344731
+data-set/70000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000404,70000,69996
+data-set/70000-numbers-17-ordered-descending.txt.csv, descending, 6.332522,70000,-1845076644
+data-set/70000-numbers-17-unordered.txt.csv, unordered, 3.146035,70000,1224930555
+data-set/70000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000445,70000,69996
+data-set/70000-numbers-18-ordered-descending.txt.csv, descending, 6.327705,70000,-1845076887
+data-set/70000-numbers-18-unordered.txt.csv, unordered, 3.165513,70000,1227792088
+data-set/70000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000426,70000,69998
+data-set/70000-numbers-19-ordered-descending.txt.csv, descending, 6.289697,70000,-1845076849
+data-set/70000-numbers-19-unordered.txt.csv, unordered, 3.155746,70000,1223218414
+data-set/70000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000496,70000,69994
+data-set/70000-numbers-2-ordered-descending.txt.csv, descending, 6.298264,70000,-1845077181
+data-set/70000-numbers-2-unordered.txt.csv, unordered, 3.164550,70000,1227986401
+data-set/70000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000406,70000,69999
+data-set/70000-numbers-20-ordered-descending.txt.csv, descending, 6.355270,70000,-1845076951
+data-set/70000-numbers-20-unordered.txt.csv, unordered, 3.134880,70000,1221425246
+data-set/70000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000432,70000,69995
+data-set/70000-numbers-21-ordered-descending.txt.csv, descending, 6.308618,70000,-1845077114
+data-set/70000-numbers-21-unordered.txt.csv, unordered, 3.165906,70000,1231045163
+data-set/70000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000406,70000,69994
+data-set/70000-numbers-22-ordered-descending.txt.csv, descending, 6.291601,70000,-1845076663
+data-set/70000-numbers-22-unordered.txt.csv, unordered, 3.153799,70000,1226267670
+data-set/70000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000402,70000,69998
+data-set/70000-numbers-23-ordered-descending.txt.csv, descending, 6.307009,70000,-1845076676
+data-set/70000-numbers-23-unordered.txt.csv, unordered, 3.192807,70000,1226895096
+data-set/70000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000441,70000,69997
+data-set/70000-numbers-24-ordered-descending.txt.csv, descending, 6.282114,70000,-1845076897
+data-set/70000-numbers-24-unordered.txt.csv, unordered, 3.191922,70000,1230874955
+data-set/70000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000418,70000,69994
+data-set/70000-numbers-25-ordered-descending.txt.csv, descending, 6.305812,70000,-1845077106
+data-set/70000-numbers-25-unordered.txt.csv, unordered, 3.150383,70000,1225043318
+data-set/70000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000403,70000,69997
+data-set/70000-numbers-26-ordered-descending.txt.csv, descending, 6.329501,70000,-1845077090
+data-set/70000-numbers-26-unordered.txt.csv, unordered, 3.151516,70000,1228800578
+data-set/70000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000404,70000,69997
+data-set/70000-numbers-27-ordered-descending.txt.csv, descending, 6.305353,70000,-1845077255
+data-set/70000-numbers-27-unordered.txt.csv, unordered, 3.179240,70000,1225147227
+data-set/70000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000435,70000,69996
+data-set/70000-numbers-28-ordered-descending.txt.csv, descending, 6.321043,70000,-1845077777
+data-set/70000-numbers-28-unordered.txt.csv, unordered, 3.154015,70000,1227921697
+data-set/70000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000405,70000,69997
+data-set/70000-numbers-29-ordered-descending.txt.csv, descending, 6.285661,70000,-1845076723
+data-set/70000-numbers-29-unordered.txt.csv, unordered, 3.164467,70000,1225847708
+data-set/70000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000402,70000,69998
+data-set/70000-numbers-3-ordered-descending.txt.csv, descending, 6.479130,70000,-1845076900
+data-set/70000-numbers-3-unordered.txt.csv, unordered, 3.321460,70000,1229232773
+data-set/70000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000416,70000,69998
+data-set/70000-numbers-4-ordered-descending.txt.csv, descending, 6.470400,70000,-1845077195
+data-set/70000-numbers-4-unordered.txt.csv, unordered, 3.200704,70000,1226486077
+data-set/70000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000477,70000,69997
+data-set/70000-numbers-5-ordered-descending.txt.csv, descending, 6.443139,70000,-1845077127
+data-set/70000-numbers-5-unordered.txt.csv, unordered, 3.211094,70000,1223206775
+data-set/70000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000430,70000,69997
+data-set/70000-numbers-6-ordered-descending.txt.csv, descending, 6.831932,70000,-1845077153
+data-set/70000-numbers-6-unordered.txt.csv, unordered, 3.256570,70000,1220938799
+data-set/70000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000486,70000,69995
+data-set/70000-numbers-7-ordered-descending.txt.csv, descending, 6.635447,70000,-1845077177
+data-set/70000-numbers-7-unordered.txt.csv, unordered, 3.241013,70000,1227820966
+data-set/70000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000404,70000,69993
+data-set/70000-numbers-8-ordered-descending.txt.csv, descending, 6.536173,70000,-1845076735
+data-set/70000-numbers-8-unordered.txt.csv, unordered, 3.278738,70000,1228339081
+data-set/70000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000437,70000,69999
+data-set/70000-numbers-9-ordered-descending.txt.csv, descending, 6.462270,70000,-1845076965
+data-set/70000-numbers-9-unordered.txt.csv, unordered, 3.196099,70000,1222059720
+data-set/80000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000576,80000,79998
+data-set/80000-numbers-0-ordered-descending.txt.csv, descending, 8.404884,80000,-1095104809
+data-set/80000-numbers-0-unordered.txt.csv, unordered, 4.167414,80000,1604948950
+data-set/80000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000473,80000,79993
+data-set/80000-numbers-1-ordered-descending.txt.csv, descending, 8.385455,80000,-1095105109
+data-set/80000-numbers-1-unordered.txt.csv, unordered, 4.201884,80000,1599395903
+data-set/80000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000474,80000,79999
+data-set/80000-numbers-10-ordered-descending.txt.csv, descending, 8.541020,80000,-1095105371
+data-set/80000-numbers-10-unordered.txt.csv, unordered, 4.550232,80000,1597857161
+data-set/80000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000546,80000,79999
+data-set/80000-numbers-11-ordered-descending.txt.csv, descending, 9.242957,80000,-1095105115
+data-set/80000-numbers-11-unordered.txt.csv, unordered, 4.772042,80000,1602612615
+data-set/80000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000555,80000,79995
+data-set/80000-numbers-12-ordered-descending.txt.csv, descending, 9.544056,80000,-1095105099
+data-set/80000-numbers-12-unordered.txt.csv, unordered, 4.226305,80000,1602791168
+data-set/80000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000464,80000,79996
+data-set/80000-numbers-13-ordered-descending.txt.csv, descending, 8.779228,80000,-1095105056
+data-set/80000-numbers-13-unordered.txt.csv, unordered, 4.287202,80000,1594630168
+data-set/80000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000474,80000,79997
+data-set/80000-numbers-14-ordered-descending.txt.csv, descending, 9.944457,80000,-1095104877
+data-set/80000-numbers-14-unordered.txt.csv, unordered, 4.327286,80000,1597503229
+data-set/80000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000628,80000,79993
+data-set/80000-numbers-15-ordered-descending.txt.csv, descending, 9.627046,80000,-1095104873
+data-set/80000-numbers-15-unordered.txt.csv, unordered, 4.471646,80000,1603866447
+data-set/80000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000460,80000,79993
+data-set/80000-numbers-16-ordered-descending.txt.csv, descending, 8.509499,80000,-1095104807
+data-set/80000-numbers-16-unordered.txt.csv, unordered, 4.223348,80000,1603090459
+data-set/80000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000463,80000,79996
+data-set/80000-numbers-17-ordered-descending.txt.csv, descending, 8.790521,80000,-1095105106
+data-set/80000-numbers-17-unordered.txt.csv, unordered, 4.726259,80000,1603426889
+data-set/80000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000639,80000,79997
+data-set/80000-numbers-18-ordered-descending.txt.csv, descending, 9.442440,80000,-1095105219
+data-set/80000-numbers-18-unordered.txt.csv, unordered, 4.292046,80000,1604293686
+data-set/80000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000494,80000,79998
+data-set/80000-numbers-19-ordered-descending.txt.csv, descending, 8.419629,80000,-1095105299
+data-set/80000-numbers-19-unordered.txt.csv, unordered, 4.211317,80000,1600542509
+data-set/80000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000512,80000,79994
+data-set/80000-numbers-2-ordered-descending.txt.csv, descending, 9.677996,80000,-1095104491
+data-set/80000-numbers-2-unordered.txt.csv, unordered, 4.436485,80000,1598130565
+data-set/80000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000488,80000,79995
+data-set/80000-numbers-20-ordered-descending.txt.csv, descending, 9.062473,80000,-1095104730
+data-set/80000-numbers-20-unordered.txt.csv, unordered, 4.479138,80000,1592826485
+data-set/80000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000548,80000,79998
+data-set/80000-numbers-21-ordered-descending.txt.csv, descending, 8.914814,80000,-1095104839
+data-set/80000-numbers-21-unordered.txt.csv, unordered, 4.444739,80000,1597242170
+data-set/80000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000529,80000,79998
+data-set/80000-numbers-22-ordered-descending.txt.csv, descending, 8.923061,80000,-1095104898
+data-set/80000-numbers-22-unordered.txt.csv, unordered, 4.450602,80000,1598394439
+data-set/80000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000515,80000,79997
+data-set/80000-numbers-23-ordered-descending.txt.csv, descending, 8.915401,80000,-1095104929
+data-set/80000-numbers-23-unordered.txt.csv, unordered, 4.581392,80000,1597406139
+data-set/80000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000549,80000,79997
+data-set/80000-numbers-24-ordered-descending.txt.csv, descending, 11.006599,80000,-1095104775
+data-set/80000-numbers-24-unordered.txt.csv, unordered, 6.093710,80000,1601606449
+data-set/80000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000538,80000,79997
+data-set/80000-numbers-25-ordered-descending.txt.csv, descending, 9.500975,80000,-1095105226
+data-set/80000-numbers-25-unordered.txt.csv, unordered, 5.306029,80000,1608273907
+data-set/80000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000665,80000,79997
+data-set/80000-numbers-26-ordered-descending.txt.csv, descending, 9.282663,80000,-1095104781
+data-set/80000-numbers-26-unordered.txt.csv, unordered, 4.495497,80000,1601967962
+data-set/80000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000515,80000,79999
+data-set/80000-numbers-27-ordered-descending.txt.csv, descending, 9.904448,80000,-1095104974
+data-set/80000-numbers-27-unordered.txt.csv, unordered, 4.482514,80000,1598330964
+data-set/80000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000477,80000,79998
+data-set/80000-numbers-28-ordered-descending.txt.csv, descending, 8.875009,80000,-1095104838
+data-set/80000-numbers-28-unordered.txt.csv, unordered, 4.485211,80000,1603488189
+data-set/80000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000492,80000,79998
+data-set/80000-numbers-29-ordered-descending.txt.csv, descending, 8.932834,80000,-1095104667
+data-set/80000-numbers-29-unordered.txt.csv, unordered, 5.277565,80000,1603172645
+data-set/80000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000624,80000,79996
+data-set/80000-numbers-3-ordered-descending.txt.csv, descending, 9.035270,80000,-1095104711
+data-set/80000-numbers-3-unordered.txt.csv, unordered, 5.958866,80000,1593850701
+data-set/80000-numbers-4-ordered-ascending.txt.csv, ascending, 0.000618,80000,79999
+data-set/80000-numbers-4-ordered-descending.txt.csv, descending, 9.518261,80000,-1095104391
+data-set/80000-numbers-4-unordered.txt.csv, unordered, 4.703220,80000,1602313581
+data-set/80000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000651,80000,79997
+data-set/80000-numbers-5-ordered-descending.txt.csv, descending, 10.003132,80000,-1095104610
+data-set/80000-numbers-5-unordered.txt.csv, unordered, 4.834705,80000,1602807115
+data-set/80000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000625,80000,79998
+data-set/80000-numbers-6-ordered-descending.txt.csv, descending, 8.938010,80000,-1095105037
+data-set/80000-numbers-6-unordered.txt.csv, unordered, 4.501521,80000,1608909133
+data-set/80000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000501,80000,79995
+data-set/80000-numbers-7-ordered-descending.txt.csv, descending, 8.873854,80000,-1095104452
+data-set/80000-numbers-7-unordered.txt.csv, unordered, 4.435231,80000,1595934943
+data-set/80000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000546,80000,79998
+data-set/80000-numbers-8-ordered-descending.txt.csv, descending, 8.871692,80000,-1095105014
+data-set/80000-numbers-8-unordered.txt.csv, unordered, 4.741808,80000,1596768100
+data-set/80000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000607,80000,79995
+data-set/80000-numbers-9-ordered-descending.txt.csv, descending, 12.896271,80000,-1095104962
+data-set/80000-numbers-9-unordered.txt.csv, unordered, 4.588539,80000,1597778926
+data-set/90000-numbers-0-ordered-ascending.txt.csv, ascending, 0.000535,90000,89997
+data-set/90000-numbers-0-ordered-descending.txt.csv, descending, 12.032817,90000,-245135686
+data-set/90000-numbers-0-unordered.txt.csv, unordered, 5.841061,90000,2026300078
+data-set/90000-numbers-1-ordered-ascending.txt.csv, ascending, 0.000534,90000,89997
+data-set/90000-numbers-1-ordered-descending.txt.csv, descending, 11.184369,90000,-245136083
+data-set/90000-numbers-1-unordered.txt.csv, unordered, 5.899036,90000,2032887773
+data-set/90000-numbers-10-ordered-ascending.txt.csv, ascending, 0.000540,90000,89994
+data-set/90000-numbers-10-ordered-descending.txt.csv, descending, 12.663258,90000,-245135725
+data-set/90000-numbers-10-unordered.txt.csv, unordered, 6.167026,90000,2022324797
+data-set/90000-numbers-11-ordered-ascending.txt.csv, ascending, 0.000696,90000,89995
+data-set/90000-numbers-11-ordered-descending.txt.csv, descending, 11.873007,90000,-245135831
+data-set/90000-numbers-11-unordered.txt.csv, unordered, 5.676395,90000,2033969956
+data-set/90000-numbers-12-ordered-ascending.txt.csv, ascending, 0.000688,90000,89997
+data-set/90000-numbers-12-ordered-descending.txt.csv, descending, 11.258999,90000,-245135453
+data-set/90000-numbers-12-unordered.txt.csv, unordered, 5.584792,90000,2019383203
+data-set/90000-numbers-13-ordered-ascending.txt.csv, ascending, 0.000536,90000,89995
+data-set/90000-numbers-13-ordered-descending.txt.csv, descending, 11.204536,90000,-245135731
+data-set/90000-numbers-13-unordered.txt.csv, unordered, 5.670820,90000,2028587042
+data-set/90000-numbers-14-ordered-ascending.txt.csv, ascending, 0.000671,90000,89999
+data-set/90000-numbers-14-ordered-descending.txt.csv, descending, 11.229177,90000,-245135920
+data-set/90000-numbers-14-unordered.txt.csv, unordered, 5.632223,90000,2029877091
+data-set/90000-numbers-15-ordered-ascending.txt.csv, ascending, 0.000631,90000,89995
+data-set/90000-numbers-15-ordered-descending.txt.csv, descending, 11.290804,90000,-245135668
+data-set/90000-numbers-15-unordered.txt.csv, unordered, 5.664867,90000,2026590679
+data-set/90000-numbers-16-ordered-ascending.txt.csv, ascending, 0.000551,90000,89999
+data-set/90000-numbers-16-ordered-descending.txt.csv, descending, 11.228054,90000,-245136116
+data-set/90000-numbers-16-unordered.txt.csv, unordered, 5.604960,90000,2029228758
+data-set/90000-numbers-17-ordered-ascending.txt.csv, ascending, 0.000631,90000,89998
+data-set/90000-numbers-17-ordered-descending.txt.csv, descending, 11.198145,90000,-245135184
+data-set/90000-numbers-17-unordered.txt.csv, unordered, 5.583883,90000,2023912338
+data-set/90000-numbers-18-ordered-ascending.txt.csv, ascending, 0.000624,90000,89994
+data-set/90000-numbers-18-ordered-descending.txt.csv, descending, 11.215630,90000,-245136235
+data-set/90000-numbers-18-unordered.txt.csv, unordered, 5.606989,90000,2023838661
+data-set/90000-numbers-19-ordered-ascending.txt.csv, ascending, 0.000546,90000,89994
+data-set/90000-numbers-19-ordered-descending.txt.csv, descending, 11.198847,90000,-245135457
+data-set/90000-numbers-19-unordered.txt.csv, unordered, 5.644500,90000,2028472407
+data-set/90000-numbers-2-ordered-ascending.txt.csv, ascending, 0.000535,90000,89997
+data-set/90000-numbers-2-ordered-descending.txt.csv, descending, 11.185542,90000,-245135811
+data-set/90000-numbers-2-unordered.txt.csv, unordered, 5.642070,90000,2018531695
+data-set/90000-numbers-20-ordered-ascending.txt.csv, ascending, 0.000559,90000,89998
+data-set/90000-numbers-20-ordered-descending.txt.csv, descending, 11.498831,90000,-245135633
+data-set/90000-numbers-20-unordered.txt.csv, unordered, 5.605877,90000,2025693799
+data-set/90000-numbers-21-ordered-ascending.txt.csv, ascending, 0.000607,90000,89995
+data-set/90000-numbers-21-ordered-descending.txt.csv, descending, 11.280085,90000,-245136351
+data-set/90000-numbers-21-unordered.txt.csv, unordered, 5.622963,90000,2026073058
+data-set/90000-numbers-22-ordered-ascending.txt.csv, ascending, 0.000555,90000,89998
+data-set/90000-numbers-22-ordered-descending.txt.csv, descending, 11.203095,90000,-245135430
+data-set/90000-numbers-22-unordered.txt.csv, unordered, 5.590228,90000,2027271739
+data-set/90000-numbers-23-ordered-ascending.txt.csv, ascending, 0.000548,90000,89997
+data-set/90000-numbers-23-ordered-descending.txt.csv, descending, 11.249060,90000,-245135175
+data-set/90000-numbers-23-unordered.txt.csv, unordered, 5.603420,90000,2025793808
+data-set/90000-numbers-24-ordered-ascending.txt.csv, ascending, 0.000586,90000,89998
+data-set/90000-numbers-24-ordered-descending.txt.csv, descending, 11.220767,90000,-245135957
+data-set/90000-numbers-24-unordered.txt.csv, unordered, 5.622192,90000,2028510775
+data-set/90000-numbers-25-ordered-ascending.txt.csv, ascending, 0.000557,90000,89996
+data-set/90000-numbers-25-ordered-descending.txt.csv, descending, 11.460593,90000,-245136197
+data-set/90000-numbers-25-unordered.txt.csv, unordered, 5.884367,90000,2019911697
+data-set/90000-numbers-26-ordered-ascending.txt.csv, ascending, 0.000636,90000,89995
+data-set/90000-numbers-26-ordered-descending.txt.csv, descending, 11.147830,90000,-245135715
+data-set/90000-numbers-26-unordered.txt.csv, unordered, 5.657714,90000,2032164950
+data-set/90000-numbers-27-ordered-ascending.txt.csv, ascending, 0.000816,90000,89994
+data-set/90000-numbers-27-ordered-descending.txt.csv, descending, 11.186798,90000,-245135902
+data-set/90000-numbers-27-unordered.txt.csv, unordered, 5.597914,90000,2022563291
+data-set/90000-numbers-28-ordered-ascending.txt.csv, ascending, 0.000707,90000,89997
+data-set/90000-numbers-28-ordered-descending.txt.csv, descending, 14.247169,90000,-245135962
+data-set/90000-numbers-28-unordered.txt.csv, unordered, 6.496070,90000,2025942635
+data-set/90000-numbers-29-ordered-ascending.txt.csv, ascending, 0.000706,90000,89997
+data-set/90000-numbers-29-ordered-descending.txt.csv, descending, 12.348378,90000,-245136091
+data-set/90000-numbers-29-unordered.txt.csv, unordered, 6.062064,90000,2028484035
+data-set/90000-numbers-3-ordered-ascending.txt.csv, ascending, 0.000610,90000,89996
+data-set/90000-numbers-3-ordered-descending.txt.csv, descending, 13.563447,90000,-245136380
+data-set/90000-numbers-3-unordered.txt.csv, unordered, 6.314140,90000,2020732661
+data-set/90000-numbers-4-ordered-ascending.txt.csv, ascending, 0.001194,90000,89997
+data-set/90000-numbers-4-ordered-descending.txt.csv, descending, 12.396996,90000,-245135696
+data-set/90000-numbers-4-unordered.txt.csv, unordered, 6.269905,90000,2031413619
+data-set/90000-numbers-5-ordered-ascending.txt.csv, ascending, 0.000564,90000,89995
+data-set/90000-numbers-5-ordered-descending.txt.csv, descending, 14.316180,90000,-245136190
+data-set/90000-numbers-5-unordered.txt.csv, unordered, 7.298576,90000,2023891719
+data-set/90000-numbers-6-ordered-ascending.txt.csv, ascending, 0.000570,90000,89996
+data-set/90000-numbers-6-ordered-descending.txt.csv, descending, 11.759312,90000,-245135802
+data-set/90000-numbers-6-unordered.txt.csv, unordered, 5.533123,90000,2034391592
+data-set/90000-numbers-7-ordered-ascending.txt.csv, ascending, 0.000599,90000,89997
+data-set/90000-numbers-7-ordered-descending.txt.csv, descending, 11.091968,90000,-245136573
+data-set/90000-numbers-7-unordered.txt.csv, unordered, 5.694091,90000,2029637744
+data-set/90000-numbers-8-ordered-ascending.txt.csv, ascending, 0.000572,90000,89997
+data-set/90000-numbers-8-ordered-descending.txt.csv, descending, 11.111097,90000,-245135948
+data-set/90000-numbers-8-unordered.txt.csv, unordered, 5.591240,90000,2021074039
+data-set/90000-numbers-9-ordered-ascending.txt.csv, ascending, 0.000519,90000,89996
+data-set/90000-numbers-9-ordered-descending.txt.csv, descending, 11.472091,90000,-245136198
+data-set/90000-numbers-9-unordered.txt.csv, unordered, 5.616411,90000,2023423761

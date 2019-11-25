@@ -18,6 +18,6 @@ rm *.csv
 
 # Add a header to the merged results file to be able to identify the data during analysis
 cd ../
-echo 'FileName, SecondsElapsed, NumberCount, OperationCount\n' > temp_file.csv
+echo 'FileName, KnownNumberArrangement, SecondsElapsed, NumberCount, OperationCount\n' > temp_file.csv
 cat results-bubble-sort.csv >> temp_file.csv
 mv temp_file.csv results-bubble-sort.csv

@@ -1,6 +1,7 @@
 import System.Environment
 import System.IO
 import Control.Monad
+import System.TimeIt
 
 f :: [String] -> [Integer]
 f = map read
@@ -22,6 +23,7 @@ mergeSort xs
   | otherwise = xs
   where (leftSide, rightSide) = splitInHalf xs
 
+main :: IO()
 main = do
   -- get the command line arguments
   arguments <- getArgs
@@ -38,7 +40,7 @@ main = do
   -- parse the file contents & sort
   let singleWords = words fileContents
       list = f singleWords
-      numbers = mergeSort list
+      numbers = timeIt $ mergeSort list
 
   --print numbers
   hClose file

@@ -8,38 +8,129 @@ source printErrorMessage.sh
 # - [generationCount] files containing hundred numbers each
 # - [generationCount] files containing thousand numbers each
 # - [generationCount] files containing ten thousand numbers each
-generationCount=100
+generationCount=30
 
-# Start generating files with 100 random numbers
+
+# Generating...
 counter=0
+numberCount=10000
 
 until [ $counter -eq $generationCount ]
 do
-	fileName="100-numbers-"$counter
-	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n 100
-	printStatusMessage "Generated ${counter}. file with 100 numbers."
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
 	((counter++))
 done
 
-# Start generating files with 1K random numbers
+
+# Generating...
 counter=0
+numberCount=20000
 
 until [ $counter -eq $generationCount ]
 do
-	fileName="1000-numbers-"$counter
-	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n 1000
-	printStatusMessage "Generated ${counter}. file with 1000 numbers."
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
 	((counter++))
 done
 
-# Start generating files with 10K random numbers
+# Generating...
 counter=0
+numberCount=30000
 
 until [ $counter -eq $generationCount ]
 do
-	fileName="10000-numbers-"$counter
-	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n 10000
-	printStatusMessage "Generated ${counter}. file with 10,000 numbers."
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
+	((counter++))
+done
+
+# Generating...
+counter=0
+numberCount=40000
+
+until [ $counter -eq $generationCount ]
+do
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
+	((counter++))
+done
+
+# Generating...
+counter=0
+numberCount=50000
+
+until [ $counter -eq $generationCount ]
+do
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
+	((counter++))
+done
+
+
+# Generating...
+counter=0
+numberCount=60000
+
+until [ $counter -eq $generationCount ]
+do
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
+	((counter++))
+done
+
+
+# Generating...
+counter=0
+numberCount=70000
+
+until [ $counter -eq $generationCount ]
+do
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
+	((counter++))
+done
+
+# Generating...
+counter=0
+numberCount=80000
+
+until [ $counter -eq $generationCount ]
+do
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
+	((counter++))
+done
+
+# Generating...
+counter=0
+numberCount=90000
+
+until [ $counter -eq $generationCount ]
+do
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
+	((counter++))
+done
+
+# Generating...
+counter=0
+numberCount=100000
+
+until [ $counter -eq $generationCount ]
+do
+	fileName="${numberCount}-numbers-"$counter
+	./initiateRandomNumberFileSetGeneration.sh -f $fileName -n $numberCount
+	printStatusMessage "Generated ${counter}. file with ${numberCount} numbers."
 	((counter++))
 done
 

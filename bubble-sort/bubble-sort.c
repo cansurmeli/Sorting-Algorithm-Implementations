@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
   char *fileName;
   int numberCount, operationCount = 0;
   clock_t start, end;
-  float secondsElapsed;
+  double secondsElapsed;
 
   // retrieve the file name from the command line
   fileName = argv[1];
@@ -50,7 +50,7 @@ int main(int argc, char *argv[]) {
   bubbleSort(numbers, numberCount, &operationCount);
   end = clock();
 
-  secondsElapsed = (float)(end - start) / CLOCKS_PER_SEC;
+  secondsElapsed = (double)(end - start) / CLOCKS_PER_SEC;
   printf("TIME ELAPSED: %.6f\n", secondsElapsed);
 
   generateCSVFile(fileName, secondsElapsed, numberCount, operationCount);

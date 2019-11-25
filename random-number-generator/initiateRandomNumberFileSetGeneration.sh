@@ -1,7 +1,6 @@
 #!/bin/bash
 
 source generateRandomNumbersToFileAsUnordered.sh
-source parseCommandLineArguments.sh
 source printNewLine.sh
 source printErrorMessage.sh
 source printStatusMessage.sh
