@@ -1,22 +1,34 @@
-mkdir data-set/results-merge-sort
+cd data-set
 
-for file in data-set/*.txt
+# Analyse every file in the data set
+for file in *.txt
 do
+	# get the number count / one line = one number
 	numberCount="$(wc -l < $file)"
+
+	# increment the count by one because wc
+	# starts from 0
 	numberCount=$((numberCount+1))
 
-	output="$(time ./merge-sort $file)"
-	#echo $output
+	# retrieve the performance analysis of running
+	# the Haskell program
+	#output="$(time ./merge-sort $file)"
+	(time ./merge-sort $file) 2> $file.results
+
+	# process the analysis results
 	#array=( $output )
 	#echo ${a[1]}
+
+	# write to CSV
 done
 
-cd data-set/results-merge-sort
-#mv 100-numbers-0-unordered.txt.csv 100-numbers-0-unordered.txt.csv.temp
-#for file in *.csv
-#do
-	#tail -n +2 "$file" > "$file.tmp" && mv "$file.tmp" "$file"
-	#echo >> $file
-#done
-#mv 100-numbers-0-unordered.txt.csv.temp 100-numbers-0-unordered.txt.csv
-cat *.csv >merged.csv
+# Merge the CSV results
+cat *.csv >results-merge-sort.csv
+mv results-merge-sort.csv ../
+rm *.csv
+
+# Add a header to the general results file
+cd ../
+echo 'FileName, KnownNumberArrangement, SecondsElapsed, NumberCount, OperationCount\n' > temp_file.csv
+cat results-bubble-sort.csv >> temp_file.csv
+mv temp_file.csv results-bubble-sort.csv
