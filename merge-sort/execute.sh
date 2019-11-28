@@ -7,7 +7,7 @@ do
 
 	output="$(time ./merge-sort $file)"
 	#echo $output
-	array=( $output )
+	#array=( $output )
 	#echo ${a[1]}
 done
 
