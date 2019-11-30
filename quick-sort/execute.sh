@@ -1,20 +1,44 @@
-mkdir data-set/results-quick-sort
+#!/bin/bash
 
-for file in data-set/*.txt
+# Start the sorting and analyses
+for file in ../data-set/*.txt
 do
+	# get the number count / one line = one number
 	numberCount="$(wc -l < $file)"
+
+	# increment the count by one because wc
+	# starts from 0
 	numberCount=$((numberCount+1))
 
-	time ./quick-sort $file $numberCount >$file.csv
-	mv $file.csv data-set/results-quick-sort/
+	# retrieve the performance analysis of running
+	# the Haskell program
+	(time ./quick-sort $file) 2> $file.results
+
+	echo $file
+	secondsElapsed=`tail -1 $file.results | awk '{print $2}'`
+	echo $secondsElapsed
+	#knownNumberArrangement=`echo $file | cut -d'-' -f6 | cut -d'.' -f1`
+	if [[ "$file" == *"ascending"* ]]; then
+		knownNumberArrangement="ascending"
+	elif [[ "$file" == *"descending"* ]]; then
+		knownNumberArrangement="descending"
+	else
+		knownNumberArrangement="unordered"
+	fi
+	echo ""
+
+	echo "$file, ${knownNumberArrangement}, ${secondsElapsed}, ${numberCount}" > $file.csv
+	rm $file.results
 done
 
-cd data-set/results-quick-sort
-#mv 100-numbers-0-unordered.txt.csv 100-numbers-0-unordered.txt.csv.temp
-#for file in *.csv
-#do
-	#tail -n +2 "$file" > "$file.tmp" && mv "$file.tmp" "$file"
-	#echo >> $file
-#done
-#mv 100-numbers-0-unordered.txt.csv.temp 100-numbers-0-unordered.txt.csv
-cat *.csv >merged.csv
+# Combine the generated CSV files into one
+cd ../data-set
+cat *.csv >results-quick-sort.csv
+mv results-quick-sort.csv ../quick-sort
+rm *.csv
+
+# Add a header to the general results file
+cd ../quick-sort
+echo 'FileName, KnownNumberArrangement, SecondsElapsed, NumberCount\n' > temp_file.csv
+cat results-quick-sort.csv >> temp_file.csv
+mv temp_file.csv results-quick-sort.csv

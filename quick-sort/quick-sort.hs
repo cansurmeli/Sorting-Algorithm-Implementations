@@ -27,5 +27,4 @@ main = do
       list = f singleWords
       numbers = quickSort list
 
-  --print numbers
   hClose file

@@ -1,5 +1,7 @@
-# Analyse every file in the data set
-for file in data-set/*.txt
+#!/bin/bash
+
+# Start the sorting and analyses
+for file in ../data-set/*.txt
 do
 	# get the number count / one line = one number
 	numberCount="$(wc -l < $file)"
@@ -10,7 +12,6 @@ do
 
 	# retrieve the performance analysis of running
 	# the Haskell program
-	#output="$(time ./merge-sort $file)"
 	(time ./merge-sort $file) 2> $file.results
 
 	echo $file
@@ -30,14 +31,14 @@ do
 	rm $file.results
 done
 
-# Merge the CSV results
-cd data-set
+# Combine the generated CSV files into one
+cd ../data-set
 cat *.csv >results-merge-sort.csv
-mv results-merge-sort.csv ../
+mv results-merge-sort.csv ../merge-sort
 rm *.csv
 
-# Add a header to the general results file
-cd ../
+# Add a header to the merged CSV file for identification purposes
+cd ../merge-sort
 echo 'FileName, KnownNumberArrangement, SecondsElapsed, NumberCount\n' > temp_file.csv
 cat results-merge-sort.csv >> temp_file.csv
 mv temp_file.csv results-merge-sort.csv
