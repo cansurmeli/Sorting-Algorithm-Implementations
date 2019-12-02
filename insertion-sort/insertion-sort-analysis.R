@@ -4,8 +4,6 @@ library(ggrepel)   # Automatically Position Non-Overlapping Text Labels with 'gg
 # library(ggalt)     # Extra Coordinate Systems, 'Geoms', Statistical Transformations,
 									 # Scales and Fonts for 'ggplot2'
 
-
-
 # GRUNT WORK
 # Make it  more readable
 projectLocation <- "/Users/can/Documents/Family/Can/Master/
@@ -14,7 +12,6 @@ Semesters/
 WS 19:20/
 Empirical Methods for Software Engineering/
 EMSE | Exercise/
-EMSE | Exercise 3/
 Sorting\ Algorithm\ Implementations/
 insertion-sort"
 
@@ -25,16 +22,12 @@ directory <- gsub("\n", "", projectLocation)
 setwd(directory)
 getwd()
 
-
-
 # PRE-PLOTTING GRUNT WORK
 # Turn-off the scientific notation like 1e+48
 options(scipen=999)
 
 # Pre-set the BW theme
 theme_set(theme_bw())
-
-
 
 # DATA OPERATIONS
 # Retrieve the data
@@ -44,7 +37,7 @@ insertionSortResults <- read.csv("results-insertion-sort.csv")
 # Otherwise there is too much data to display
 # It gets highly noisy
 firstNinetyRows <- 90
-chunk <- sample(bubbleSortResults[1:firstNinetyRows,])
+chunk <- sample(insertionSortResults[1:firstNinetyRows,])
 # View(chunk)
 
 # Modularly controlling which data set gets displayed
@@ -55,8 +48,6 @@ dataSet <- insertionSortResults
 numberCount <- dataSet$NumberCount
 secondsElapsed <- dataSet$SecondsElapsed
 knownNumberArrangement <- dataSet$KnownNumberArrangement
-
-
 
 # PLOT IT...
 ggplot(dataSet, aes(x = numberCount, 
@@ -69,7 +60,7 @@ ggplot(dataSet, aes(x = numberCount,
 	# request a violin box
 	# geom_violin() +
 	# add a smoothing layer
-	# the line of best fit / trendline
+	# the line of the best fit / trendline
 	geom_smooth(method = "loess", 
 							col = "steelblue", 
 							size = 1) +

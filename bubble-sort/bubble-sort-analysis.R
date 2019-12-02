@@ -2,9 +2,7 @@
 library(ggplot2)   # Create Elegant Data Visualisations Using the Grammar of Graphics
 library(ggrepel)   # Automatically Position Non-Overlapping Text Labels with 'ggplot2'
 # library(ggalt)     # Extra Coordinate Systems, 'Geoms', Statistical Transformations,
-									 # Scales and Fonts for 'ggplot2'
-
-
+# Scales and Fonts for 'ggplot2'
 
 # GRUNT WORK
 # Make it  more readable
@@ -14,7 +12,6 @@ Semesters/
 WS 19:20/
 Empirical Methods for Software Engineering/
 EMSE | Exercise/
-EMSE | Exercise 3/
 Sorting\ Algorithm\ Implementations/
 bubble-sort"
 
@@ -25,16 +22,12 @@ directory <- gsub("\n", "", projectLocation)
 setwd(directory)
 getwd()
 
-
-
 # PRE-PLOTTING GRUNT WORK
 # Turn-off the scientific notation like 1e+48
 options(scipen=999)
 
 # Pre-set the BW theme
 theme_set(theme_bw())
-
-
 
 # DATA OPERATIONS
 # Retrieve the data
@@ -56,8 +49,6 @@ numberCount <- dataSet$NumberCount
 secondsElapsed <- dataSet$SecondsElapsed
 knownNumberArrangement <- dataSet$KnownNumberArrangement
 
-
-
 # PLOT IT...
 ggplot(dataSet, aes(x = numberCount, 
 										y = secondsElapsed)) + 
@@ -65,7 +56,7 @@ ggplot(dataSet, aes(x = numberCount,
 	geom_point(aes(col = knownNumberArrangement), 
 						 size = 3) + 
 	# add a smoothing layer
-	# the line of best fit
+	# the line of the best fit
 	geom_smooth(method = "loess", 
 							col = "steelblue", 
 							size = 1) +
@@ -77,5 +68,5 @@ ggplot(dataSet, aes(x = numberCount,
 	ylab("Seconds Elapsed") +
 	scale_x_continuous(breaks = seq(10000, 100000, 10000)) +
 	scale_y_continuous(breaks = seq(0, 80, 5))
-	# add labelling to the data points
-	# geom_text_repel(aes(label = knownNumberArrangement), size = 2, data = dataSet)
+# add labelling to the data points
+# geom_text_repel(aes(label = knownNumberArrangement), size = 2, data = dataSet)
