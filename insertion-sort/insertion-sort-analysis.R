@@ -1,25 +1,13 @@
 # REQUIRED LIBRARIES
-library(ggplot2)   # Create Elegant Data Visualisations Using the Grammar of Graphics
-library(ggrepel)   # Automatically Position Non-Overlapping Text Labels with 'ggplot2'
-# library(ggalt)     # Extra Coordinate Systems, 'Geoms', Statistical Transformations,
-									 # Scales and Fonts for 'ggplot2'
+library(ggplot2)      # Create Elegant Data Visualisations Using the Grammar of Graphics
+library(ggrepel)      # Automatically Position Non-Overlapping Text Labels with 'ggplot2'
+library(rstudioapi)   # related to setting up the working directory
+# library(ggalt)      # Extra Coordinate Systems, 'Geoms', Statistical Transformations,
+                      # Scales and Fonts for 'ggplot2'
 
 # GRUNT WORK
-# Make it  more readable
-projectLocation <- "/Users/can/Documents/Family/Can/Master/
-University Passau/
-Semesters/
-WS 19:20/
-Empirical Methods for Software Engineering/
-EMSE | Exercise/
-Sorting\ Algorithm\ Implementations/
-insertion-sort"
-
-# The above multi-line style needs the removal of new-line characters
-directory <- gsub("\n", "", projectLocation)
-
 # Set and check the working directory
-setwd(directory)
+setwd(dirname(getActiveDocumentContext()$path))
 getwd()
 
 # PRE-PLOTTING GRUNT WORK
