@@ -1,0 +1,3 @@
+[submodule "prng"]
+	path = prng
+	url = https://gitlab.cansurmeli.com/can/prng.git
