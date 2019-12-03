@@ -66,7 +66,7 @@ ggplot(dataSet, aes(x = numberCount,
 							size = 1) +
 	# counts chart / overcoming the problem of data points that overlap
 	geom_count(col = "tomato3") +
-	ggtitle("MERGE SORT", 
+	ggtitle("MERGE SORT in Haskell", 
 					subtitle = "Number Count vs. Seconds Elapsed") +
 	xlab("Number Count") +
 	ylab("Seconds Elapsed") +
