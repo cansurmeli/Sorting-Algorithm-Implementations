@@ -14,31 +14,35 @@ The dataset is already there in the project root folder for common usage by all 
 - `cd prng`
 - `./00-construct-data-set.sh`
 
-For more details, refer to the documentation in the `pong` folder.
+For more details, refer to the documentation in the `prng` folder.
 
 ## Bubble Sort
 
 - **implemented in:** C
 - Run `./execute.sh` to apply bubble sort on the `dataset`.
 - When the script finishes, the results will be in the `bubble-sort` folder as a CSV file, ready for analysis in R.
+- The self-documented R file `bubble-sort-analysis.R` graphs the results for data analysis.
 
 ## Insertion Sort
 
 - **implemented in:** C
 - Run `./execute.sh` to apply insertion sort on the `dataset`.
 - When the script finishes, the results will be in the `insertion-sort` folder as a CSV file, ready for analysis in R.
+- The self-documented R file `insertion-sort-analysis.R` graphs the results for data analysis.
 
 ## Merge Sort
 
 - **implemented in:** Haskell
 - Run `./execute.sh` to apply merge sort on the `dataset`.
 - When the script finishes, the results will be in the `merge-sort` folder as a CSV file, ready for analysis in R.
+- The self-documented R file `merge-sort-analysis.R` graphs the results for data analysis.
 
 ## Quick Sort
 
 - **implemented in:** Haskell
 - Run `./execute.sh` to apply quick sort on the `dataset`.
 - When the script finishes, the results will be in the `quick-sort` folder as a CSV file, ready for analysis in R.
+- The self-documented R file `quick-sort-analysis.R` graphs the results for data analysis.
 
 ## Resources
 
