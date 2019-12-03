@@ -2,39 +2,43 @@
 
 ## Beforehand
 
-- **Not to forget** that running a Haskell program in `GHCI` will result in poorer performance as `GHCI` is an interpreter.
-- Performance measurement for Haskell code in `GHCI`: `:set +s`
+- **Not to forget** if you run a Haskell program in `GHCI`, it will result in a substandard performance as `GHCI` is an interpreter.
+- If still you want to see the performance of a Haskell algorithm in `GHCI`, type `:set +s` before executing the algorithm.
 
-## Random Number Generator
+## Pseudo Random Number Generator
 
-- Run `./construct-data-set.sh` to generate a data set composed of:
-	- random numbers,
-		- [FILE_COUNT] x 100 numbers
-		- [FILE_COUNT] x 1000 numbers
-		- [FILE_COUNT] x 10000 numbers
-	- it's ascending version,
-	- it's descending version.
-- Afterwards, the generated `data-set` file has to be copied into each and every one of the sorting algorithm implementations.
+This project makes use of a custom build PRNG as a submodule to generate the required dataset for the sorting algorithms.
+
+The dataset is already there in the project root folder for common usage by all of the algorithms but if one wants a new one:
+
+- `cd prng`
+- `./00-construct-data-set.sh`
+
+For more details, refer to the documentation in the `pong` folder.
 
 ## Bubble Sort
 
 - **implemented in:** C
-- Run `./execute.sh` to apply bubble sort on the `data-set`.
+- Run `./execute.sh` to apply bubble sort on the `dataset`.
+- When the script finishes, the results will be in the `bubble-sort` folder as a CSV file, ready for analysis in R.
 
 ## Insertion Sort
 
 - **implemented in:** C
-- Run `./execute.sh` to apply insertion sort on the `data-set`.
+- Run `./execute.sh` to apply insertion sort on the `dataset`.
+- When the script finishes, the results will be in the `insertion-sort` folder as a CSV file, ready for analysis in R.
 
 ## Merge Sort
 
 - **implemented in:** Haskell
-- Running `time ./merge-sort data-set/1000-numbers-unordered.txt` will output some data regarding the execution.
+- Run `./execute.sh` to apply merge sort on the `dataset`.
+- When the script finishes, the results will be in the `merge-sort` folder as a CSV file, ready for analysis in R.
 
 ## Quick Sort
 
 - **implemented in:** Haskell
-- Running `time ./quick-sort data-set/1000-numbers-unordered.txt` will output some data regarding the execution.
+- Run `./execute.sh` to apply quick sort on the `dataset`.
+- When the script finishes, the results will be in the `quick-sort` folder as a CSV file, ready for analysis in R.
 
 ## Resources
 
