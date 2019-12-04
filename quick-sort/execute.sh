@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start the sorting and analyses
-for file in ../data-set/*.txt
+for file in ../dataset/*.txt
 do
 	# get the number count / one line = one number
 	numberCount="$(wc -l < $file)"
@@ -32,7 +32,7 @@ do
 done
 
 # Combine the generated CSV files into one
-cd ../data-set
+cd ../dataset
 cat *.csv >results-quick-sort.csv
 mv results-quick-sort.csv ../quick-sort
 rm *.csv
