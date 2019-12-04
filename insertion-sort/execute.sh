@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start the sorting
-for file in ../data-set/*.txt
+for file in ../dataset/*.txt
 do
 	numberCount="$(wc -l < $file)"
 	numberCount=$((numberCount+1))
@@ -12,7 +12,7 @@ do
 done
 
 # Combine the generated CSV files into one
-cd ../data-set
+cd ../dataset
 cat *.csv >results-insertion-sort.csv
 mv results-insertion-sort.csv ../insertion-sort
 rm *.csv
