@@ -30,6 +30,9 @@ chunk <- sample(bubbleSortResults[1:firstNinetyRows,])
 
 # Modularly controlling which data set gets displayed
 dataSet <- bubbleSortResults
+View(dataSet)
+subSetData <- subset(dataSet, c(KnownNumberArrangement, "unordered"))
+View(subSetData)
 
 # The usage of the data set
 # Also related to making labelling below better for the eyes
