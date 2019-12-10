@@ -19,7 +19,7 @@ theme_set(theme_bw())
 
 # DATA OPERATIONS
 # Retrieve the data
-bubbleSortResults <- read.csv("results-bubble-sort.csv")
+bubbleSortResults <- read.csv("results-bubble-sort-numeric.csv")
 
 # Crop the data set
 # Otherwise there is too much data to display
@@ -30,9 +30,8 @@ chunk <- sample(bubbleSortResults[1:firstNinetyRows,])
 
 # Modularly controlling which data set gets displayed
 dataSet <- bubbleSortResults
-View(dataSet)
-subSetData <- subset(dataSet, c(KnownNumberArrangement, "unordered"))
-View(subSetData)
+subSetData <- subset(dataSet, KnownNumberArrangement == 0)
+mean(subSetData$SecondsElapsed, na.rm = TRUE)
 
 # The usage of the data set
 # Also related to making labelling below better for the eyes
